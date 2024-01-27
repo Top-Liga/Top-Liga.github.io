@@ -1,7 +1,7 @@
 import os   # импорт модуля работы с каталогами
 import datetime     # модуль для определния текущей даты
 DateNow = str(datetime.datetime.utcnow())[:19].replace(":", "-")    # текущая дата по UTC, отформатированная под строку для имени файла
-
+os.mkdir("build")
 with open("build/index.html", 'w') as f:
     f.write('\
     <!DOCTYPE html>\
@@ -11,9 +11,6 @@ with open("build/index.html", 'w') as f:
         <title>TopLiga</title>\
     </head>\
     <body>\
-        <div class="navbar">\
-            <a href="/" class="navbar-brand">TopLiga</a>\
-        </div>\
         <div class="body-content">\
             best games actual standings\
             <hr />\
