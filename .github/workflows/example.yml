@@ -2,8 +2,8 @@ name: example
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/5 * * * *'
     
 jobs:
   build: # job_id
@@ -15,9 +15,9 @@ jobs:
       - name: list current folder
         run: ls
       - name: Run script
-        run: test.py
-      # - name: Deploy
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     publish_dir: ./build
+        run: python test.py
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
