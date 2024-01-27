@@ -1,6 +1,6 @@
-import os   # импорт модуля работы с каталогами
-# import datetime     # модуль для определния текущей даты
-# DateNow = str(datetime.datetime.utcnow())[:19].replace(":", "-")    # текущая дата по UTC, отформатированная под строку для имени файла
+# import os   # импорт модуля работы с каталогами
+import datetime     # модуль для определния текущей даты
+DateNow = str(datetime.datetime.utcnow())[:19].replace(":", "-")    # текущая дата по UTC, отформатированная под строку для имени файла
 # os.mkdir("build")
 # with open("build/index.html", 'w') as f:
 #     f.write('\
