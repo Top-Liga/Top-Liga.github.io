@@ -12,9 +12,9 @@ jobs:
     steps:
       - name: repo checkout  # загрузка содержимого корня репозитория на вирт машину
         uses: actions/checkout@v4  
-        with:
-          sparse-checkout: |
-            test.py
+        # with:
+        #   sparse-checkout: |
+        #     test.py    # загрузка только этого файла
       - name: list current folder
         run: ls
       - name: Run script
