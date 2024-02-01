@@ -1,0 +1,30 @@
+<!-- html of main page using layout -->
+<!-- шаблон, используемый в html разных страниц для описания одинаковых элементов -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>TopLiga</title>
+    <!-- ссылка на используемый файл стилей -->
+    <link rel="stylesheet" type="text/css" href="/static/site.css" />
+</head>
+
+<body>
+    <div class="navbar">
+        <a href="/" class="navbar-brand">TopLiga</a>
+        <a href="/home" class="navbar-item">Home</a>
+        <a href="/about" class="navbar-item">About</a>
+    </div>
+
+    <div class="body-content">
+        
+<span class="message">TopLiga soon</span>, now is Thursday, 01 February, 2024 at 18:47:24
+
+        <hr />
+        <footer>
+            <p>&copy; 2024</p>
+        </footer>
+    </div>
+</body>
+</html>
