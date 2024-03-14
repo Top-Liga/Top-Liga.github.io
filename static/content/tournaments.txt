@@ -1,4 +1,4 @@
-                          quota
+                         quota
 UEFA
       Champions League      16
       Europa League          6
