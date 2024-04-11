@@ -8,9 +8,9 @@
  8  Chelsea                   54    0.62    ENG
  9  AS Roma                   53    0.59    ITA
 10  Manchester United         50    0.50    ENG
-11  Borussia Dortmund         47    0.41    GER
-12  Barcelona                 47    0.41    ESP
-13  Atletico Madrid           46    0.35    ESP
+11  Barcelona                 49    0.47    ESP
+12  Borussia Dortmund         47    0.41    GER
+13  Atletico Madrid           47    0.41    ESP
 14  Sevilla                   43    0.25    ESP
 15  Bayer Leverkusen          41    0.19    GER
 16  Villarreal                41    0.19    ESP
