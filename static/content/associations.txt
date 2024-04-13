@@ -16,5 +16,5 @@
 15  Denmark           0   0.45
 16  Austria           0   0.40
 17  Croatia           0   0.40
-18  Serbia            0   0.09
-19  Greece            0   0.09
+18  Greece            0   0.09
+19  Serbia            0   0.09
