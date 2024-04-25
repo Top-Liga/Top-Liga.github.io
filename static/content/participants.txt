@@ -23,10 +23,10 @@ ITA
       23-24 Serie A             
                            1  Inter                      TL    UCL       
                            2  AC Milan                         UEL       
-                           3  Juventus                                   
+                           3  Juventus                               Cup 
                               AS Roma                    TL    UEL       
                               Atalanta                         UEL       
-                              Lazio                            UCL   Cup 
+                              Lazio                            UCL       
                               Napoli                           UCL       
 POR
       23-24 Primeira Liga       
