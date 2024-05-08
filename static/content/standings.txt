@@ -5,9 +5,9 @@
  5  Liverpool                 69    1.13    ENG
  6  Inter                     56    0.72    ITA
  7  AS Roma                   56    0.69    ITA
- 8  RB Leipzig                53    0.59    GER
- 9  Chelsea                   52    0.56    ENG
-10  Borussia Dortmund         50    0.50    GER
+ 8  Borussia Dortmund         53    0.59    GER
+ 9  RB Leipzig                53    0.59    GER
+10  Chelsea                   52    0.56    ENG
 11  Manchester United         48    0.44    ENG
 12  Barcelona                 47    0.41    ESP
 13  Atletico Madrid           45    0.34    ESP
