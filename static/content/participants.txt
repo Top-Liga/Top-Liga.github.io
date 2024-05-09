@@ -39,7 +39,7 @@ FRA
 NED
       23-24 Eredivisie          
                            1  PSV Eindhoven                    UCL       
-BEL
-                              Club Brugge KV                   UECL
 DEN
                               FC Copenhagen                    UCL 
+GRE
+                              Olympiakos Piraeus               UECL
