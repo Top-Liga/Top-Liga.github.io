@@ -15,8 +15,8 @@ ESP
 GER
       23-24 Bundesliga          
                            1  Bayer Leverkusen                 UEL       
-                           2  Bayern Munich              TL    UCL       
-                           3  VfB Stuttgart                              
+                           2  VfB Stuttgart                              
+                           3  Bayern Munich              TL    UCL       
                            4  RB Leipzig                 TL    UCL       
                               Borussia Dortmund          TL    UCL       
 ITA
