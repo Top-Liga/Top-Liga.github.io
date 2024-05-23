@@ -14,9 +14,9 @@
 14  Atletico Madrid           45    0.34    ESP
 15  Sevilla                   41    0.19    ESP
 16  Villarreal                39    0.12    ESP
-17  Napoli                    37    0.06    ITA
-18  Juventus                  37    0.06    ITA
-19  Atalanta                  36    0.03    ITA
+17  Atalanta                  38    0.09    ITA
+18  Napoli                    37    0.06    ITA
+19  Juventus                  37    0.06    ITA
 20  Benfica                   36    0.03    POR
 21  FC Porto                  34   -0.04    POR
 22  Arsenal                   30   -0.19    ENG
