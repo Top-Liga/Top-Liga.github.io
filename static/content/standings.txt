@@ -40,9 +40,9 @@
 40  AZ Alkmaar                 9   -0.89    NED
 41  Red Bull Salzburg          9   -0.89    AUT
 42  SC Braga                   8   -0.92    POR
-43  Marseille                  7   -0.95    FRA
-44  Lille                      6   -0.98    FRA
-45  Olympiakos Piraeus         6   -1.01    GRE
+43  Olympiakos Piraeus         7   -0.95    GRE
+44  Marseille                  7   -0.95    FRA
+45  Lille                      6   -0.98    FRA
 46  Gent                       5   -1.04    BEL
 47  Lyon                       4   -1.07    FRA
 48  Rennes                     3   -1.11    FRA
