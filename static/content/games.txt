@@ -175,3 +175,9 @@ ITA-L  RS-3                        Inter  18:45  Atalanta
                            ITA-9    TL-7         TL-17   ITA-13
                            UCL|TL|league         UEL                     
 
+                                       31|08|2024
+
+GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig               
+                           GER-5   TL-13         TL-9    GER-18
+                              UEL|league         UCL|TL|league           
+
