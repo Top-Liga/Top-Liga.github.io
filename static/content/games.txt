@@ -181,3 +181,7 @@ GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig
                            GER-5   TL-13         TL-9    GER-18
                               UEL|league         UCL|TL|league           
 
+ITA-L  RS-3                        Lazio  18:45  AC Milan                 
+                          ITA-14   TL-32         TL-29   ITA-12
+                                     UCL         UEL|league              
+
