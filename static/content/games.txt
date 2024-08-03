@@ -144,7 +144,7 @@ ENG-S  Final           Manchester United  14:00  Manchester City
                                        17|08|2024
 
 GER-S  Final               VfB Stuttgart   TBD   Bayer Leverkusen         
-                          GER-16   TL-52         TL-13   GER-5 
+                          GER-16   TL-51         TL-13   GER-5 
                                   league         UEL|league              
 
                                        18|08|2024
@@ -166,7 +166,7 @@ ITA-L  RS-2                       Napoli  18:45  Bologna
                                      UCL         league                  
 
 ESP-L  RS-2              Atletico Madrid  19:30  Girona                   
-                           ESP-9   TL-14         TL-51   ESP-19
+                           ESP-9   TL-14         TL-52   ESP-19
                               UCL|league         league                  
 
                                        30|08|2024
