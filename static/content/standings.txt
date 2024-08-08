@@ -29,19 +29,19 @@
 29  AC Milan                  18   -0.68     0 pl     ITA 12      UEL p 6               ITA L p 2     
 30  Sporting CP               16   -0.73     1 pl     POR 10                            POR L p 1     
 31  Feyenoord                 16   -0.74     0 pl     NED  2                            
-32  Tottenham                 13   -0.84     0 pl     ENG 10                            
-32  PSV Eindhoven             13   -0.84     0 pl     NED  1      UCL p 15              NED L p 1     
 32  Lazio                     13   -0.84     0 pl     ITA 14      UCL p 12              
+32  PSV Eindhoven             13   -0.84     0 pl     NED  1      UCL p 15              NED L p 1     
+32  Tottenham                 13   -0.84     0 pl     ENG 10                            
 35  Slavia Praha              12   -0.87     0 pl     CZE  2                            
 36  FC Basel 1893             11   -0.90     0 pl     SUI 11                            
 37  FC Copenhagen             11   -0.92     0 pl     DEN  3      UCL p 16              
 38  Real Sociedad             10   -0.93     0 pl     ESP  1      UCL p 13              
+39  Red Bull Salzburg          9   -0.97     0 pl     AUT  1                            
 39  Dinamo Zagreb              9   -0.97     0 pl     CRO  3                            
 39  AZ Alkmaar                 9   -0.97     0 pl     NED  4                            
-39  Red Bull Salzburg          9   -0.97     0 pl     AUT  1                            
 42  SC Braga                   8   -1.00     0 pl     POR 12                            
-43  Olympiakos Piraeus         7   -1.03     0 pl     GRE  3      UECL p 1               
 43  Marseille                  7   -1.03     0 pl     FRA 14      UEL p 4               
+43  Olympiakos Piraeus         7   -1.03     0 pl     GRE  3      UECL p 1               
 45  Lille                      6   -1.06     0 pl     FRA  3                            
 46  Gent                       5   -1.12     0 pl     BEL  7                            
 47  Lyon                       4   -1.15     0 pl     FRA 18                            
