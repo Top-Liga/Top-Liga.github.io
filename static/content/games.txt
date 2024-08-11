@@ -34,7 +34,7 @@ ENG-L  RS-2                  Aston Villa  16:30  Arsenal
                                        25|08|2024
 
 ITA-L  RS-2                       Napoli  18:45  Bologna                  
-                           ITA-4   TL-19         TL-None ITA-2 
+                           ITA-4   TL-20         TL-None ITA-2 
                                      UCL         league                  
 
 ESP-L  RS-2              Atletico Madrid  19:30  Girona                   
@@ -44,7 +44,7 @@ ESP-L  RS-2              Atletico Madrid  19:30  Girona
                                        30|08|2024
 
 ITA-L  RS-3                        Inter  18:45  Atalanta                 
-                           ITA-9    TL-6         TL-18   ITA-13
+                           ITA-9    TL-7         TL-18   ITA-13
                            UCL|TL|league         UEL                     
 
                                        31|08|2024
@@ -58,7 +58,7 @@ ITA-L  RS-3                        Lazio  18:45  AC Milan
                                      UCL         UEL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
-                           POR-2   TL-30         TL-17   POR-1 
+                           POR-3   TL-30         TL-17   POR-2 
                                   league         UCL                     
 
                                        01|09|2024
@@ -68,6 +68,6 @@ ENG-L  RS-3            Manchester United  15:00  Liverpool
                                   TL|cup         UEL|TL|league           
 
 ITA-L  RS-3                     Juventus  18:45  AS Roma                  
-                          ITA-10   TL-20         TL-7    ITA-8 
+                          ITA-10   TL-19         TL-6    ITA-8 
                                   league         UEL|TL                  
 
