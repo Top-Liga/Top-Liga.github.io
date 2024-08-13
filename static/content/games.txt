@@ -54,7 +54,7 @@ GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig
                               UEL|league         UCL|TL|league           
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
-                          ITA-14   TL-34         TL-30   ITA-12
+                          ITA-14   TL-33         TL-30   ITA-12
                                      UCL         UEL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
