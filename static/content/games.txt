@@ -1,13 +1,13 @@
                                        03|08|2024
 
 POR-S  Final                 Sporting CP   3:3   FC Porto                 
-                          POR-10   TL-31         TL-21   POR-9 
+                          POR-1p   TL-31         TL-21   POR-3p
                                   league         UCL                     
 
                                        10|08|2024
 
 ENG-S  Final             Manchester City   1:1   Manchester United        
-                           ENG-7    TL-1         TL-11   ENG-8 
+                          ENG-1p    TL-1         TL-11   ENG-8p
                            UCL|TL|league         cup                     
 
 
@@ -40,7 +40,7 @@ ESP-L  RS-2              Atletico Madrid  19:30  Girona
                                        30|08|2024
 
 ITA-L  RS-3                        Inter  18:45  Atalanta                 
-                          ITA-1p    TL-7         TL-18   ITA-4p
+                          ITA-1p    TL-6         TL-18   ITA-4p
                            UCL|TL|league         UEL|league              
 
                                        31|08|2024
@@ -64,6 +64,6 @@ ENG-L  RS-3            Manchester United  15:00  Liverpool
                                   TL|cup         UEL|TL|league           
 
 ITA-L  RS-3                     Juventus  18:45  AS Roma                  
-                          ITA-3p   TL-19         TL-6    ITA-6p
+                          ITA-3p   TL-20         TL-7    ITA-6p
                                   league         UEL|TL                  
 
