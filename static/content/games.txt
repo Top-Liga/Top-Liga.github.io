@@ -46,15 +46,15 @@ ITA-L  RS-3                        Inter  18:45  Atalanta
                                        31|08|2024
 
 GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig               
-                          GER-1p   TL-13         TL-9    GER-4p
+                          GER-1p   TL-13         TL-10   GER-4p
                               UEL|league         UCL|TL|league           
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
-                          ITA-7p   TL-33         TL-30   ITA-2p
+                          ITA-7p   TL-32         TL-30   ITA-2p
                                      UCL         UEL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
-                           POR-3   TL-28         TL-17   POR-2 
+                           POR-3   TL-28         TL-16   POR-2 
                                   league         UCL                     
 
                                        01|09|2024
