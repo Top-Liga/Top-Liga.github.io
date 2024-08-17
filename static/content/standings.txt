@@ -16,8 +16,8 @@
 16  Sevilla                   38   -0.04     0 pl     ESP  3                            
 17  FC Porto                  38   -0.06     1 pl     POR 3p      UCL p 9               
 18  Villarreal                37   -0.10     0 pl     ESP 11                            
-19  Napoli                    35   -0.16     0 pl     ITA  4      UCL p 14              
 19  Juventus                  35   -0.16     0 pl     ITA 3p                            ITA L p 3     
+19  Napoli                    35   -0.16     0 pl     ITA  4      UCL p 14              
 21  Benfica                   34   -0.19     0 pl     POR 17                            
 22  Arsenal                   28   -0.40     0 pl     ENG 2p      UCL p 8               ENG L p 2     
 23  West Ham                  25   -0.50     0 pl     ENG 19                            
@@ -29,19 +29,19 @@
 29  Eintracht Frankfurt       18   -0.76     0 pl     GER  3                            
 30  AC Milan                  17   -0.79     0 pl     ITA 2p      UEL p 6               ITA L p 2     
 31  Feyenoord                 15   -0.85     0 pl     NED  8                            
-32  Tottenham                 12   -0.95     0 pl     ENG 5p                            ENG L p 5     
 32  Lazio                     12   -0.95     0 pl     ITA 7p      UCL p 12              
 32  PSV Eindhoven             12   -0.95     0 pl     NED  1      UCL p 15              
+32  Tottenham                 12   -0.95     0 pl     ENG 5p                            ENG L p 5     
 35  Slavia Praha              12   -0.97     0 pl     CZE  2                            
 36  FC Basel 1893             11   -1.00     0 pl     SUI 11                            
 37  FC Copenhagen             10   -1.02     0 pl     DEN  1      UCL p 16              
 38  Real Sociedad             10   -1.03     0 pl     ESP 6p      UCL p 13              
-39  AZ Alkmaar                 9   -1.07     0 pl     NED  7                            
 39  Red Bull Salzburg          9   -1.07     0 pl     AUT  1                            
 39  Dinamo Zagreb              9   -1.07     0 pl     CRO  3                            
+39  AZ Alkmaar                 9   -1.07     0 pl     NED  7                            
 42  SC Braga                   8   -1.10     0 pl     POR 11                            
-43  Olympiakos Piraeus         7   -1.13     0 pl     GRE  9      UECL p 1               
 43  Marseille                  7   -1.13     0 pl     FRA 14      UEL p 4               
+43  Olympiakos Piraeus         7   -1.13     0 pl     GRE  9      UECL p 1               
 45  Lille                      6   -1.16     0 pl     FRA  3                            
 46  Gent                       5   -1.21     0 pl     BEL  7                            
 47  Lyon                       4   -1.24     0 pl     FRA 18                            
