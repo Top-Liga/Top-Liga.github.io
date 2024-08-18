@@ -40,7 +40,7 @@ ESP-L  RS-2              Atletico Madrid  19:30  Girona
                                        30|08|2024
 
 ITA-L  RS-3                        Inter  18:45  Atalanta                 
-                           ITA-2    TL-6         TL-15   ITA-4p
+                           ITA-2    TL-8         TL-15   ITA-4p
                            UCL|TL|league         UEL|league              
 
                                        31|08|2024
@@ -60,7 +60,7 @@ POR-L  RS-4                  Sporting CP  19:30  FC Porto
                                        01|09|2024
 
 ENG-L  RS-3            Manchester United  15:00  Liverpool                
-                           ENG-4    TL-8         TL-5    ENG-3 
+                           ENG-4    TL-6         TL-5    ENG-3 
                                   TL|cup         UEL|TL|league           
 
 ITA-L  RS-3                     Juventus  18:45  AS Roma                  
@@ -78,6 +78,6 @@ ESP-L  RS-5                       Girona   TBD   Barcelona
                                   league         UCL|league              
 
 ENG-L  RS-4                    Tottenham  13:00  Arsenal                  
-                          ENG-5p   TL-34         TL-22   ENG-2 
+                          ENG-5p   TL-32         TL-22   ENG-2 
                                   league         UCL|league              
 
