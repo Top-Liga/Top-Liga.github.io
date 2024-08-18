@@ -3,9 +3,9 @@
  3  Bayern Munich             95    1.74     0 pl       GER 3p       UCL p 3     TL  3     GER L p 3     
  4  Paris Saint Germain       83    0.90     0 pl       FRA 2        UCL p 4     TL  4     FRA L p 1     
  5  Liverpool                 82    0.84     0 pl       ENG 3        UEL p 5     TL  5     ENG L p 3     
- 6  AS Roma                   76    0.45     0 pl       ITA 6p       UEL p 3     TL  6     
- 6  Manchester United         76    0.45     1 pl       ENG 4                    TL  7     ENG C p 1     
- 6  Inter                     76    0.45     0 pl       ITA 2        UCL p 10    TL  8     ITA L p 1     
+ 6  Manchester United         76    0.45     1 pl       ENG 4                    TL  6     ENG C p 1     
+ 6  Inter                     76    0.45     0 pl       ITA 2        UCL p 10    TL  7     ITA L p 1     
+ 6  AS Roma                   76    0.45     0 pl       ITA 6p       UEL p 3     TL  8     
  9  Borussia Dortmund         74    0.33     0 pl       GER 5p       UCL p 2     TL  9     
  9  RB Leipzig                74    0.33     0 pl       GER 4p       UCL p 11    TL  10    GER L p 4     
 11  Bayer Leverkusen          74    0.32     1 pl       GER 1p       UEL p 2               GER L p 1     
@@ -16,8 +16,8 @@
 16  Sevilla                   69   -0.05     0 pl       ESP 4                              
 17  FC Porto                  69   -0.06     1 pl       POR 2        UCL p 9               
 18  Villarreal                68   -0.12     0 pl       ESP 8p                             
-19  Napoli                    67   -0.18     0 pl       ITA 10p      UCL p 14              
 19  Juventus                  67   -0.18     0 pl       ITA 3p                             ITA L p 3     
+19  Napoli                    67   -0.18     0 pl       ITA 10p      UCL p 14              
 21  Benfica                   67   -0.20     0 pl       POR 10                             
 22  Arsenal                   64   -0.41     0 pl       ENG 2        UCL p 8               ENG L p 2     
 23  West Ham                  62   -0.51     0 pl       ENG 9p                             
@@ -29,9 +29,9 @@
 29  Eintracht Frankfurt       58   -0.78     0 pl       GER 6p                             
 30  AC Milan                  58   -0.80     0 pl       ITA 2p       UEL p 6               ITA L p 2     
 31  Feyenoord                 57   -0.86     0 pl       NED 9                              
-32  Lazio                     56   -0.96     0 pl       ITA 7p       UCL p 12              
-32  Tottenham                 56   -0.96     0 pl       ENG 5p                             ENG L p 5     
 32  PSV Eindhoven             56   -0.96     0 pl       NED 6        UCL p 15              
+32  Tottenham                 56   -0.96     0 pl       ENG 5p                             ENG L p 5     
+32  Lazio                     56   -0.96     0 pl       ITA 7p       UCL p 12              
 35  Slavia Praha              55   -0.99     0 pl       CZE 2                              
 36  FC Basel 1893             55   -1.01     0 pl       SUI 7                              
 37  FC Copenhagen             55   -1.03     0 pl       DEN 2        UCL p 16              
