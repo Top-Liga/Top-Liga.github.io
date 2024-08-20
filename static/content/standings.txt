@@ -7,8 +7,8 @@
  7  AS Roma                   76    0.42     0 pl       ITA 13       UEL p 3     TL  7     
  7  Inter                     76    0.42     0 pl       ITA 5        UCL p 10    TL  8     ITA L p 1     
  9  Bayer Leverkusen          74    0.31     1 pl       GER 1p       UEL p 2     TL  9     GER L p 1     
-10  RB Leipzig                74    0.30     0 pl       GER 4p       UCL p 11    TL  10    GER L p 4     
-10  Borussia Dortmund         74    0.30     0 pl       GER 5p       UCL p 2     TL  11    
+10  Borussia Dortmund         74    0.30     0 pl       GER 5p       UCL p 2     TL  10    
+10  RB Leipzig                74    0.30     0 pl       GER 4p       UCL p 11    TL  11    GER L p 4     
 12  Chelsea                   73    0.27     0 pl       ENG 17                             
 13  Barcelona                 71    0.13     0 pl       ESP 3        UCL p 7               ESP L p 2     
 14  Atletico Madrid           70    0.06     0 pl       ESP 7        UCL p 6               ESP L p 4     
@@ -24,14 +24,14 @@
 24  Ajax                      61   -0.59     0 pl       NED 9                              
 25  Club Brugge KV            60   -0.68     0 pl       BEL 13                             
 26  Sporting CP               59   -0.71     1 pl       POR 1                              POR L p 1     
-27  Rangers                   59   -0.72     0 pl       SCO 4                              
 27  Shakhtar Donetsk          59   -0.72     0 pl       UKR 8        UCL p 17              
+27  Rangers                   59   -0.72     0 pl       SCO 4                              
 29  Eintracht Frankfurt       58   -0.80     0 pl       GER 6p                             
 30  AC Milan                  57   -0.83     0 pl       ITA 6        UEL p 6               ITA L p 2     
 31  Feyenoord                 57   -0.89     0 pl       NED 5                              
+32  Lazio                     55   -0.98     0 pl       ITA 3        UCL p 12              
 32  PSV Eindhoven             55   -0.98     0 pl       NED 1        UCL p 15              
 32  Tottenham                 55   -0.98     0 pl       ENG 5p                             ENG L p 5     
-32  Lazio                     55   -0.98     0 pl       ITA 3        UCL p 12              
 35  Slavia Praha              55   -1.01     0 pl       CZE 3                              
 36  FC Basel 1893             54   -1.04     0 pl       SUI 7                              
 37  FC Copenhagen             54   -1.06     0 pl       DEN 2        UCL p 16              
