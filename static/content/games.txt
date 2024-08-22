@@ -58,7 +58,7 @@ ESP-L  RS-4                Athletic Club  17:00  Atletico Madrid
                                   league         UCL|league              
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
-                           ITA-3   TL-32         TL-30   ITA-6 
+                           ITA-3   TL-34         TL-30   ITA-6 
                                      UCL         UEL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
