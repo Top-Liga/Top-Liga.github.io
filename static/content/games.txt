@@ -22,53 +22,53 @@ GER-S  Final            Bayer Leverkusen   2:2   VfB Stuttgart
                           GER-1p   TL-13         TL-None GER-2p
                               UEL|league         league                  
 
-
-================================================================================
-
                                        24|08|2024
 
-ENG-L  RS-2                  Aston Villa  16:30  Arsenal                  
+ENG-L  RS-2                  Aston Villa   0:2   Arsenal                  
                            ENG-5 TL-None         TL-22   ENG-2 
                                   league         UCL|league              
 
-ESP-L  RS-2                    Barcelona  17:00  Athletic Club            
+ESP-L  RS-2                    Barcelona   2:1   Athletic Club            
                            ESP-1   TL-13         TL-None ESP-9 
                               UCL|league         league                  
+
+
+================================================================================
 
                                        25|08|2024
 
 ESP-L  RS-2              Atletico Madrid  19:30  Girona                   
-                           ESP-5   TL-14         TL-None ESP-13
+                           ESP-6   TL-15         TL-None ESP-12
                               UCL|league         league                  
 
                                        30|08|2024
 
 ITA-L  RS-3                        Inter  18:45  Atalanta                 
-                           ITA-5    TL-7         TL-15   ITA-1 
+                           ITA-5    TL-9         TL-14   ITA-1 
                            UCL|TL|league         UEL|league              
 
                                        31|08|2024
 
 GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig               
-                           GER-2    TL-9         TL-11   GER-4 
-                           UEL|TL|league         UCL|TL|league           
+                           GER-2   TL-10         TL-11   GER-4 
+                           UEL|TL|league         UCL|league              
 
 ESP-L  RS-4                Athletic Club  17:00  Atletico Madrid          
-                           ESP-9 TL-None         TL-14   ESP-5 
+                           ESP-8   TL-52         TL-15   ESP-6 
                                   league         UCL|league              
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
-                           ITA-3   TL-33         TL-30   ITA-6 
+                           ITA-3   TL-32         TL-30   ITA-6 
                                      UCL         UEL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
-                           POR-1   TL-25         TL-16   POR-2 
+                           POR-1   TL-25         TL-17   POR-2 
                                   league         UCL                     
 
                                        01|09|2024
 
 ENG-L  RS-3            Manchester United  15:00  Liverpool                
-                           ENG-7    TL-6         TL-5    ENG-3 
+                           ENG-7    TL-7         TL-5    ENG-3 
                                   TL|cup         UEL|TL|league           
 
 ITA-L  RS-3                     Juventus  18:45  AS Roma                  
@@ -78,32 +78,32 @@ ITA-L  RS-3                     Juventus  18:45  AS Roma
                                        15|09|2024
 
 ESP-L  RS-5                Real Sociedad   TBD   Real Madrid              
-                          ESP-18   TL-38         TL-2    ESP-16
+                          ESP-18   TL-38         TL-2    ESP-15
                                      UCL         UCL|TL|league           
 
 ESP-L  RS-5                       Girona   TBD   Barcelona                
-                          ESP-13 TL-None         TL-13   ESP-1 
-                                  league         UCL|league              
+                          ESP-12 TL-None         TL-6    ESP-3 
+                                  league         UCL|TL|league           
 
 ENG-L  RS-4                    Tottenham  13:00  Arsenal                  
-                          ENG-12   TL-32         TL-22   ENG-2 
+                          ENG-12   TL-34         TL-16   ENG-2 
                                   league         UCL|league              
 
                                        22|09|2024
 
 ITA-L  RS-5                        Inter   TBD   AC Milan                 
-                           ITA-5    TL-7         TL-30   ITA-6 
+                           ITA-5    TL-9         TL-30   ITA-6 
                            UCL|TL|league         UEL|league              
 
 ITA-L  RS-5                     Juventus   TBD   Napoli                   
-                          ITA-3p   TL-20         TL-19   ITA-19
+                          ITA-3p   TL-20         TL-21   ITA-19
                                   league         UCL                     
 
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
-                           ENG-4    TL-1         TL-22   ENG-2 
+                           ENG-4    TL-1         TL-16   ENG-2 
                            UCL|TL|league         UCL|league              
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-18   TL-51         TL-10   GER-5p
-                                  league         UCL|TL                  
+                          GER-18   TL-51         TL-12   GER-5p
+                                  league         UCL                     
 
