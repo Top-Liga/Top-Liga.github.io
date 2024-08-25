@@ -11,12 +11,12 @@ ESP
                            1  Real Madrid                TL    UCL       
                            2  Barcelona                  TL    UCL       
                            3  Girona                                     
-                           4  Atletico Madrid                  UCL       
+                           4  Atletico Madrid            TL    UCL       
                            5  Athletic Club                              
                               Real Sociedad                    UCL       
 GER
       23-24 Bundesliga          
-                           1  Bayer Leverkusen           TL    UEL       
+                           1  Bayer Leverkusen                 UEL       
                            2  VfB Stuttgart                              
                            3  Bayern Munich              TL    UCL       
                            4  RB Leipzig                       UCL       
@@ -24,7 +24,7 @@ GER
 ITA
       23-24 Serie A             
                            1  Inter                      TL    UCL       
-                           2  AC Milan                         UEL       
+                           2  AC Milan                         UCL       
                            3  Juventus                                   
                            4  Atalanta                         UEL       
                               Lazio                            UCL       
