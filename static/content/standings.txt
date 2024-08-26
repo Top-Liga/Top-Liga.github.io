@@ -29,8 +29,8 @@
 29  Eintracht Frankfurt       57   -0.87     0 pl       GER 17                             
 30  AC Milan                  57   -0.90     0 pl       ITA 15       UCL p 18              ITA L p 2     
 31  Feyenoord                 56   -0.96     0 pl       NED 6                              
-32  Tottenham                 55   -1.05     0 pl       ENG 5                              ENG L p 5     
 32  Lazio                     55   -1.05     0 pl       ITA 9        UCL p 12              
+32  Tottenham                 55   -1.05     0 pl       ENG 5                              ENG L p 5     
 32  PSV Eindhoven             55   -1.05     0 pl       NED 1        UCL p 15              
 35  Slavia Praha              54   -1.08     0 pl       CZE 3                              
 36  FC Basel 1893             54   -1.11     0 pl       SUI 3                              
