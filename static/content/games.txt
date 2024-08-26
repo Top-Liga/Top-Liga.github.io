@@ -50,11 +50,11 @@ ITA-L  RS-3                        Inter  18:45  Atalanta
                                        31|08|2024
 
 GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig               
-                           GER-5   TL-11         TL-13   GER-7 
+                           GER-5   TL-11         TL-12   GER-7 
                               UEL|league         UCL|league              
 
 ESP-L  RS-4                Athletic Club  17:00  Atletico Madrid          
-                          ESP-16   TL-52         TL-7    ESP-9 
+                          ESP-15   TL-52         TL-7    ESP-3 
                                   league         UCL|TL|league           
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
@@ -78,11 +78,11 @@ ITA-L  RS-3                     Juventus  18:45  AS Roma
                                        15|09|2024
 
 ESP-L  RS-5                Real Sociedad   TBD   Real Madrid              
-                           ESP-7   TL-38         TL-2    ESP-14
+                           ESP-9   TL-38         TL-2    ESP-4 
                                      UCL         UCL|TL|league           
 
 ESP-L  RS-5                       Girona   TBD   Barcelona                
-                          ESP-12   TL-53         TL-6    ESP-2 
+                          ESP-18   TL-53         TL-6    ESP-2 
                                   league         UCL|TL|league           
 
 ENG-L  RS-4                    Tottenham  13:00  Arsenal                  
@@ -104,6 +104,6 @@ ENG-L  RS-5              Manchester City  15:30  Arsenal
                            UCL|TL|league         UCL|league              
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-16   TL-51         TL-12   GER-2 
+                          GER-16   TL-51         TL-13   GER-2 
                                   league         UCL                     
 
