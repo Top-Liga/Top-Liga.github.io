@@ -58,7 +58,7 @@ ESP-L  RS-4                Athletic Club  17:00  Atletico Madrid
                                   league         UCL|TL|league           
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
-                          ITA-10   TL-33         TL-30   ITA-14
+                          ITA-10   TL-34         TL-30   ITA-14
                                      UCL         UCL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
@@ -82,7 +82,7 @@ ESP-L  RS-5                Real Sociedad   TBD   Real Madrid
                                      UCL         UCL|TL|league           
 
 ESP-L  RS-5                       Girona   TBD   Barcelona                
-                          ESP-18   TL-54         TL-6    ESP-2 
+                          ESP-18   TL-53         TL-6    ESP-2 
                                   league         UCL|TL|league           
 
 ENG-L  RS-4                    Tottenham  13:00  Arsenal                  
