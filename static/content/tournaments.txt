@@ -6,7 +6,6 @@ UEFA
 TL
       TopLiga                     10
 ENG
-      24-25 Premier League         1
       23-24 Premier League         5
       23-24 FA Cup                 1
 ESP
