@@ -58,7 +58,7 @@ ESP-L  RS-4                Athletic Club  17:00  Atletico Madrid
                                   league         UCL|TL|league           
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
-                          ITA-10   TL-32         TL-30   ITA-14
+                          ITA-10   TL-33         TL-30   ITA-14
                                      UCL         UCL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
@@ -72,7 +72,7 @@ ENG-L  RS-3            Manchester United  15:00  Liverpool
                                   TL|cup         UEL|TL|league           
 
 ITA-L  RS-3                     Juventus  18:45  AS Roma                  
-                           ITA-7   TL-20         TL-11   ITA-15
+                           ITA-7   TL-21         TL-11   ITA-15
                                   league         UEL|TL                  
 
                                        15|09|2024
@@ -96,7 +96,7 @@ ITA-L  RS-5                        Inter   TBD   AC Milan
                            UCL|TL|league         UCL|league              
 
 ITA-L  RS-5                     Juventus   TBD   Napoli                   
-                           ITA-7   TL-20         TL-21   ITA-11
+                           ITA-7   TL-21         TL-20   ITA-11
                                   league         UCL                     
 
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
