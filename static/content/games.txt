@@ -54,7 +54,7 @@ ENG-L  RS-3                      Arsenal  11:30  Brighton
                               UCL|league         league                  
 
 GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig               
-                           GER-5   TL-10         TL-12   GER-7 
+                           GER-6   TL-10         TL-13   GER-8 
                            UEL|TL|league         UCL|league              
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
@@ -82,7 +82,7 @@ ESP-L  RS-5                Real Sociedad   TBD   Real Madrid
                                      UCL         UCL|TL|league           
 
 ESP-L  RS-5                       Girona   TBD   Barcelona                
-                          ESP-19   TL-53         TL-7    ESP-1 
+                          ESP-19   TL-54         TL-7    ESP-1 
                                   league         UCL|TL|league           
 
                                        22|09|2024
@@ -104,13 +104,13 @@ ENG-L  RS-5              Manchester City  15:30  Arsenal
                            UCL|TL|league         UCL|league              
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-16   TL-51         TL-13   GER-2 
+                          GER-16   TL-51         TL-12   GER-3 
                                   league         UCL                     
 
                                        28|09|2024
 
 GER-L  RS-5               Bayern München  16:30  Bayer Leverkusen         
-                           GER-4    TL-3         TL-10   GER-5 
+                           GER-5    TL-3         TL-10   GER-6 
                            UCL|TL|league         UEL|TL|league           
 
                                        29|09|2024
