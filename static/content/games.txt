@@ -44,7 +44,7 @@ ESP-L  RS-2              Atletico Madrid   3:0   Girona
                                        30|08|2024
 
 ITA-L  RS-3                        Inter  18:45  Atalanta                 
-                           ITA-1   TL-10         TL-16   ITA-9 
+                           ITA-1   TL-11         TL-16   ITA-9 
                            UCL|TL|league         UEL|league              
 
                                        31|08|2024
@@ -58,7 +58,7 @@ GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig
                            UEL|TL|league         UCL|league              
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
-                          ITA-10   TL-34         TL-30   ITA-14
+                          ITA-10   TL-32         TL-30   ITA-14
                                      UCL         UCL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
@@ -72,7 +72,7 @@ ENG-L  RS-3            Manchester United  15:00  Liverpool
                                   TL|cup         UEL|TL|league           
 
 ITA-L  RS-3                     Juventus  18:45  AS Roma                  
-                           ITA-7   TL-20         TL-11   ITA-15
+                           ITA-7   TL-21         TL-10   ITA-15
                                   league         UEL|TL                  
 
                                        15|09|2024
@@ -82,7 +82,7 @@ ESP-L  RS-5                Real Sociedad   TBD   Real Madrid
                                      UCL         UCL|TL|league           
 
 ESP-L  RS-5                       Girona   TBD   Barcelona                
-                          ESP-19   TL-53         TL-6    ESP-1 
+                          ESP-19   TL-54         TL-6    ESP-1 
                                   league         UCL|TL|league           
 
                                        22|09|2024
@@ -92,11 +92,11 @@ ESP-L  RS-6                   Villarreal   TBD   Barcelona
                                   league         UCL|TL|league           
 
 ITA-L  RS-5                        Inter   TBD   AC Milan                 
-                           ITA-1   TL-10         TL-30   ITA-14
+                           ITA-1   TL-11         TL-30   ITA-14
                            UCL|TL|league         UCL|league              
 
 ITA-L  RS-5                     Juventus   TBD   Napoli                   
-                           ITA-7   TL-20         TL-21   ITA-11
+                           ITA-7   TL-21         TL-20   ITA-11
                                   league         UCL                     
 
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
