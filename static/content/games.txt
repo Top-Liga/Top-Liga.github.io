@@ -44,25 +44,25 @@ ITA-L  RS-3                        Inter   4:0   Atalanta
                            ITA-1   TL-10         TL-16   ITA-9 
                            UCL|TL|league         UEL|league              
 
-
-================================================================================
-
                                        31|08|2024
 
-ENG-L  RS-3                      Arsenal  11:30  Brighton                 
+ENG-L  RS-3                      Arsenal   1:1   Brighton                 
                            ENG-3   TL-15         TL-None ENG-2 
                               UCL|league         league                  
 
+
+================================================================================
+
 GER-L  RS-2             Bayer Leverkusen  16:30  RB Leipzig               
-                           GER-6   TL-10         TL-13   GER-8 
+                           GER-6   TL-10         TL-12   GER-8 
                            UEL|TL|league         UCL|league              
 
 ITA-L  RS-3                        Lazio  18:45  AC Milan                 
-                           ITA-9   TL-34         TL-30   ITA-14
+                           ITA-9   TL-32         TL-30   ITA-14
                                      UCL         UCL|league              
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
-                           POR-1   TL-24         TL-17   POR-2 
+                           POR-1   TL-24         TL-16   POR-2 
                                   league         UCL                     
 
                                        01|09|2024
@@ -100,11 +100,11 @@ ITA-L  RS-5                     Juventus   TBD   Napoli
                                   league         UCL                     
 
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
-                           ENG-1    TL-1         TL-15   ENG-3 
+                           ENG-1    TL-1         TL-17   ENG-3 
                            UCL|TL|league         UCL|league              
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-16   TL-51         TL-12   GER-3 
+                          GER-16   TL-52         TL-13   GER-3 
                                   league         UCL                     
 
                                        28|09|2024
