@@ -54,12 +54,12 @@ GER-L  RS-2             Bayer Leverkusen   2:3   RB Leipzig
                            GER-6   TL-10         TL-12   GER-8 
                            UEL|TL|league         UCL|league              
 
-
-================================================================================
-
-ITA-L  RS-3                        Lazio  18:45  AC Milan                 
+ITA-L  RS-3                        Lazio   2:2   AC Milan                 
                            ITA-9   TL-34         TL-30   ITA-14
                                      UCL         UCL|league              
+
+
+================================================================================
 
 POR-L  RS-4                  Sporting CP  19:30  FC Porto                 
                            POR-1   TL-24         TL-16   POR-2 
@@ -72,11 +72,11 @@ ENG-L  RS-3            Manchester United  15:00  Liverpool
                                   TL|cup         UEL|TL|league           
 
 GER-L  RS-2               Bayern München  15:30  SC Freiburg              
-                           GER-7    TL-3         TL-None GER-3 
+                           GER-8    TL-3         TL-None GER-4 
                            UCL|TL|league         league                  
 
 ITA-L  RS-3                     Juventus  18:45  AS Roma                  
-                           ITA-2   TL-20         TL-11   ITA-15
+                           ITA-3   TL-21         TL-11   ITA-17
                                   league         UEL                     
 
                                        15|09|2024
@@ -86,7 +86,7 @@ ESP-L  RS-5                Real Sociedad   TBD   Real Madrid
                                      UCL         UCL|TL|league           
 
 ESP-L  RS-5                       Girona   TBD   Barcelona                
-                           ESP-7   TL-55         TL-8    ESP-1 
+                           ESP-7   TL-54         TL-8    ESP-1 
                                   league         UCL|TL|league           
 
                                        22|09|2024
@@ -96,11 +96,11 @@ ESP-L  RS-6                   Villarreal   TBD   Barcelona
                                   league         UCL|TL|league           
 
 ITA-L  RS-5                        Inter   TBD   AC Milan                 
-                           ITA-3    TL-4         TL-30   ITA-14
+                           ITA-1    TL-4         TL-23   ITA-16
                            UCL|TL|league         UCL|league              
 
 ITA-L  RS-5                     Juventus   TBD   Napoli                   
-                           ITA-2   TL-20         TL-21   ITA-10
+                           ITA-3   TL-21         TL-20   ITA-9 
                                   league         UCL                     
 
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
@@ -108,13 +108,13 @@ ENG-L  RS-5              Manchester City  15:30  Arsenal
                            UCL|TL|league         UCL|league              
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-15   TL-51         TL-13   GER-1 
+                          GER-15   TL-52         TL-13   GER-2 
                                   league         UCL                     
 
                                        28|09|2024
 
 GER-L  RS-5               Bayern München  16:30  Bayer Leverkusen         
-                           GER-7    TL-3         TL-12   GER-8 
+                           GER-8    TL-3         TL-12   GER-9 
                            UCL|TL|league         UEL|league              
 
                                        29|09|2024
