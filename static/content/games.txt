@@ -78,7 +78,7 @@ ITA-L  RS-3                     Juventus  18:45  AS Roma
                                        15|09|2024
 
 ESP-L  RS-5                Real Sociedad   TBD   Real Madrid              
-                          ESP-13   TL-33         TL-1    ESP-5 
+                          ESP-13   TL-31         TL-1    ESP-5 
                                      UCL         UCL|TL|league           
 
 ESP-L  RS-5                       Girona   TBD   Barcelona                
@@ -88,7 +88,7 @@ ESP-L  RS-5                       Girona   TBD   Barcelona
                                        17|09|2024
 
  UCL   Leagu                    Juventus  16:45  PSV Eindhoven            
-                           ITA-3   TL-24         TL-31   NED-2 
+                           ITA-3   TL-24         TL-32   NED-2 
                                   league         UCL                     
 
  UCL   Leagu                 Real Madrid  19:00  VfB Stuttgart            
