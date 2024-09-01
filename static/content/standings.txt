@@ -28,20 +28,20 @@
 28  Sevilla                   57   -0.83     0 pl       ESP 17                             
 29  Ajax                      57   -0.86     0 pl       NED 9                              
 30  Rangers                   56   -0.93     0 pl       SCO 3                              
-31  Real Sociedad             55   -0.96     0 pl       ESP 13       UCL p 13              
-31  PSV Eindhoven             55   -0.96     0 pl       NED 2        UCL p 15              
 31  Eintracht Frankfurt       55   -0.96     0 pl       GER 10                             
+31  PSV Eindhoven             55   -0.96     0 pl       NED 2        UCL p 15              
+31  Real Sociedad             55   -0.96     0 pl       ESP 13       UCL p 13              
 34  Slavia Praha              53   -1.10     0 pl       CZE 3                              
-35  Lille                     52   -1.17     0 pl       FRA 2                              
 35  Marseille                 52   -1.17     0 pl       FRA 5        UEL p 4               
+35  Lille                     52   -1.17     0 pl       FRA 2                              
 35  Dinamo Zagreb             52   -1.17     0 pl       CRO 1                              
 38  Shakhtar Donetsk          52   -1.20     0 pl       UKR 8        UCL p 17              
 39  Red Bull Salzburg         51   -1.23     0 pl       AUT 1                              
 40  AZ Alkmaar                51   -1.27     0 pl       NED 1                              
 41  Fiorentina                51   -1.28     0 pl       ITA 13                             
 42  SC Braga                  49   -1.37     0 pl       POR 5                              
-43  Tottenham                 49   -1.40     0 pl       ENG 5                              
 43  Olympiakos Piraeus        49   -1.40     0 pl       GRE 1        UECL p 1               
+43  Tottenham                 49   -1.40     0 pl       ENG 5                              
 45  FC Copenhagen             48   -1.44     0 pl       DEN 5        UCL p 16              
 45  Rennes                    48   -1.44     0 pl       FRA 8                              
 45  FK Crvena Zvezda          48   -1.44     0 pl       SRB 1                              
