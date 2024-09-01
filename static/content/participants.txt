@@ -22,8 +22,10 @@ ITA
                            2  AC Milan                         UEL       
                            3  Juventus                                   
                            4  Atalanta                         UEL       
-                              Lazio                            UCL       
+      24-25 Serie A             
+                           2  Torino                                     
                               Napoli                           UCL       
+                              Lazio                            UCL       
                               AS Roma                    TL    UEL       
 GER
       23-24 Bundesliga          

@@ -13,6 +13,7 @@ ESP
       24-25 La Liga                1
       23-24 La Liga                4
 ITA
+      24-25 Serie A                1
       23-24 Serie A                4
 GER
       23-24 Bundesliga             4
