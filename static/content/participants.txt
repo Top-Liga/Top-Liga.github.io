@@ -14,7 +14,7 @@ ESP
                            3  Girona                                     
                            4  Atletico Madrid            TL    UCL       
       24-25 La Liga             
-                           2  Villarreal                                 
+                           4  Celta Vigo                                 
                               Real Sociedad                    UCL       
 ITA
       23-24 Serie A             
@@ -42,9 +42,9 @@ FRA
                               Marseille                        UEL       
 NED
                               PSV Eindhoven                    UCL 
-DEN
-                              FC Copenhagen                    UCL 
 GRE
                               Olympiakos Piraeus               UECL
 UKR
                               Shakhtar Donetsk                 UCL 
+DEN
+                              FC Copenhagen                    UCL 
