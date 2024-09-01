@@ -6,7 +6,7 @@ ENG
                            4  Aston Villa                                
       24-25 Premier League      
                            2  Brighton                                   
-                              Manchester United          TL          Cup 
+                              Manchester United                      Cup 
 ESP
       23-24 La Liga             
                            1  Real Madrid                TL    UCL       
@@ -16,24 +16,22 @@ ESP
       24-25 La Liga             
                            2  Villarreal                                 
                               Real Sociedad                    UCL       
+ITA
+      23-24 Serie A             
+                           1  Inter                      TL    UCL       
+                           2  AC Milan                         UEL       
+                           3  Juventus                                   
+                           4  Atalanta                         UEL       
+                              Lazio                            UCL       
+                              Napoli                           UCL       
+                              AS Roma                    TL    UEL       
 GER
       23-24 Bundesliga          
                            1  Bayer Leverkusen                 UEL       
                            2  VfB Stuttgart                              
                            3  Bayern Munich              TL    UCL       
                            4  RB Leipzig                 TL    UCL       
-      24-25 Bundesliga          
-                           4  SC Freiburg                                
                               Borussia Dortmund                UCL       
-ITA
-      23-24 Serie A             
-                           1  Inter                      TL    UCL       
-                           2  AC Milan                         UCL       
-                           3  Juventus                                   
-                           4  Atalanta                         UEL       
-                              Lazio                            UCL       
-                              Napoli                           UCL       
-                              AS Roma                          UEL       
 POR
       23-24 Primeira Liga       
                            1  Sporting CP                                
@@ -44,9 +42,9 @@ FRA
                               Marseille                        UEL       
 NED
                               PSV Eindhoven                    UCL 
-UKR
-                              Shakhtar Donetsk                 UCL 
-DEN
-                              FC Copenhagen                    UCL 
 GRE
                               Olympiakos Piraeus               UECL
+DEN
+                              FC Copenhagen                    UCL 
+UKR
+                              Shakhtar Donetsk                 UCL 
