@@ -78,7 +78,7 @@ ITA-L  RS-3                     Juventus   0:0   AS Roma
                                        14|09|2024
 
 ESP-L  RS-5                Real Sociedad  19:00  Real Madrid              
-                          ESP-15   TL-33         TL-1    ESP-5 
+                          ESP-15   TL-31         TL-1    ESP-5 
                                      UCL         UCL|TL|league           
 
                                        15|09|2024
