@@ -44,9 +44,9 @@ FRA
                               Marseille                        UEL       
 NED
                               PSV Eindhoven                    UCL 
-DEN
-                              FC Copenhagen                    UCL 
-GRE
-                              Olympiakos Piraeus               UECL
 UKR
                               Shakhtar Donetsk                 UCL 
+GRE
+                              Olympiakos Piraeus               UECL
+DEN
+                              FC Copenhagen                    UCL 
