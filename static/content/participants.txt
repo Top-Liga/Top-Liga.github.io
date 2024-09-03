@@ -43,9 +43,9 @@ FRA
                               Paris Saint Germain        TL    UCL 
 NED
                               PSV Eindhoven                    UCL 
-GRE
-                              Olympiakos Piraeus               UECL
 UKR
                               Shakhtar Donetsk                 UCL 
 DEN
                               FC Copenhagen                    UCL 
+GRE
+                              Olympiakos Piraeus               UECL
