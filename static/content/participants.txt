@@ -39,14 +39,13 @@ POR
                            1  Sporting CP                                
                               FC Porto                         UCL       
 FRA
-      23-24 Ligue 1             
-                           1  Paris Saint Germain        TL    UCL       
-                              Marseille                        UEL       
+                              Marseille                        UEL 
+                              Paris Saint Germain        TL    UCL 
 NED
                               PSV Eindhoven                    UCL 
-UKR
-                              Shakhtar Donetsk                 UCL 
 DEN
                               FC Copenhagen                    UCL 
+UKR
+                              Shakhtar Donetsk                 UCL 
 GRE
                               Olympiakos Piraeus               UECL
