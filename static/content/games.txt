@@ -78,19 +78,19 @@ ITA-L  RS-3                     Juventus   0:0   AS Roma
                                        14|09|2024
 
 ESP-L  RS-5                Real Sociedad  19:00  Real Madrid              
-                          ESP-15   TL-31         TL-1    ESP-5 
+                          ESP-15   TL-33         TL-1    ESP-5 
                                      UCL         UCL|TL|league           
 
                                        15|09|2024
 
 ESP-L  RS-5                       Girona  14:15  Barcelona                
-                           ESP-8   TL-55         TL-9    ESP-1 
+                           ESP-8   TL-54         TL-9    ESP-1 
                                   league         UCL|TL|league           
 
                                        17|09|2024
 
  UCL   Leagu                    Juventus  16:45  PSV Eindhoven            
-                           ITA-3   TL-18         TL-33   NED-1 
+                           ITA-3   TL-18         TL-31   NED-1 
                                   league         UCL                     
 
  UCL   Leagu                 Real Madrid  19:00  VfB Stuttgart            
@@ -108,7 +108,7 @@ ESP-L  RS-5                       Girona  14:15  Barcelona
                            UCL|TL|league         UCL|TL|league           
 
  UCL   Leagu         Paris Saint Germain  19:00  Girona                   
-                           FRA-5   TL-10         TL-55   ESP-8 
+                           FRA-5   TL-10         TL-54   ESP-8 
                                   UCL|TL         league                  
 
                                        19|09|2024
@@ -158,7 +158,7 @@ ESP-L  RS-8              Atletico Madrid   TBD   Real Madrid
                            UCL|TL|league         UCL|TL|league           
 
 ESP-L  RS-8                   Celta Vigo   TBD   Girona                   
-                           ESP-4 TL-None         TL-55   ESP-8 
+                           ESP-4 TL-None         TL-54   ESP-8 
                                   league         league                  
 
 ITA-L  RS-6                       Torino   TBD   Lazio                    
@@ -168,7 +168,7 @@ ITA-L  RS-6                       Torino   TBD   Lazio
                                        01|10|2024
 
  UCL   Leagu               PSV Eindhoven  19:00  Sporting CP              
-                           NED-1   TL-33         TL-23   POR-1 
+                           NED-1   TL-31         TL-23   POR-1 
                                      UCL         league                  
 
  UCL   Leagu            Bayer Leverkusen  19:00  AC Milan                 
@@ -186,7 +186,7 @@ ITA-L  RS-6                       Torino   TBD   Lazio
                                      UCL         UEL|league              
 
  UCL   Leagu                 Aston Villa  19:00  Bayern München           
-                           ENG-6   TL-54         TL-4    GER-2 
+                           ENG-6   TL-55         TL-4    GER-2 
                                   league         UCL|TL|league           
 
  UCL   Leagu                  RB Leipzig  19:00  Juventus                 
