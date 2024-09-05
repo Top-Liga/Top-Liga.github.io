@@ -5,7 +5,7 @@ ENG
                            3  Liverpool                  TL    UEL       
                            4  Aston Villa                                
       24-25 Premier League      
-                           2  Brighton                                   
+                           3  Brighton                                   
                               Manchester United                      Cup 
 ESP
       23-24 La Liga             
@@ -14,7 +14,7 @@ ESP
                            3  Girona                                     
                            4  Atletico Madrid            TL    UCL       
       24-25 La Liga             
-                           4  Celta Vigo                                 
+                           4  Villarreal                                 
                               Real Sociedad                    UCL       
 ITA
       23-24 Serie A             
@@ -23,7 +23,7 @@ ITA
                            3  Juventus                                   
                            4  Atalanta                         UEL       
       24-25 Serie A             
-                           2  Torino                                     
+                           3  Torino                                     
                               Napoli                           UCL       
                               Lazio                            UCL       
                               AS Roma                    TL    UEL       
@@ -39,13 +39,13 @@ POR
                            1  Sporting CP                                
                               FC Porto                         UCL       
 FRA
-                              Marseille                        UEL 
                               Paris Saint Germain        TL    UCL 
+                              Marseille                        UEL 
 NED
                               PSV Eindhoven                    UCL 
+GRE
+                              Olympiakos Piraeus               UECL
 UKR
                               Shakhtar Donetsk                 UCL 
 DEN
                               FC Copenhagen                    UCL 
-GRE
-                              Olympiakos Piraeus               UECL
