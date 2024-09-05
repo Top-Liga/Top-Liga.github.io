@@ -104,7 +104,7 @@ ESP-L  RS-5                       Girona  14:15  Barcelona
                                        18|09|2024
 
  UCL   Leagu             Manchester City  19:00  Inter                    
-                           ENG-1    TL-2         TL-5    ITA-1 
+                           ENG-1    TL-2         TL-6    ITA-1 
                            UCL|TL|league         UCL|TL|league           
 
  UCL   Leagu         Paris Saint Germain  19:00  Girona                   
@@ -124,7 +124,7 @@ ESP-L  RS-5                       Girona  14:15  Barcelona
                                        22|09|2024
 
 ITA-L  RS-5                        Inter   TBD   AC Milan                 
-                           ITA-1    TL-5         TL-19   ITA-14
+                           ITA-1    TL-6         TL-19   ITA-14
                            UCL|TL|league         UEL|league              
 
 ITA-L  RS-5                     Juventus   TBD   Napoli                   
