@@ -78,13 +78,13 @@ ITA-L  RS-3                     Juventus   0:0   AS Roma
                                        14|09|2024
 
 ESP-L  RS-5                Real Sociedad  19:00  Real Madrid              
-                          ESP-13   TL-33         TL-1    ESP-2 
+                          ESP-13   TL-32         TL-1    ESP-2 
                                      UCL         UCL|TL|league           
 
                                        15|09|2024
 
 ESP-L  RS-5                       Girona  14:15  Barcelona                
-                           ESP-5   TL-55         TL-9    ESP-1 
+                           ESP-5   TL-54         TL-9    ESP-1 
                                   league         UCL|TL|league           
 
                                        17|09|2024
@@ -108,13 +108,13 @@ ESP-L  RS-5                       Girona  14:15  Barcelona
                            UCL|TL|league         UCL|TL|league           
 
  UCL   Leagu         Paris Saint Germain  19:00  Girona                   
-                           FRA-1   TL-10         TL-55   ESP-5 
+                           FRA-1   TL-10         TL-54   ESP-5 
                                   UCL|TL         league                  
 
                                        19|09|2024
 
  UCL   Leagu                    Atalanta  19:00  Arsenal                  
-                          ITA-12   TL-20         TL-14   ENG-4 
+                          ITA-12   TL-20         TL-13   ENG-4 
                               UEL|league         UCL|league              
 
  UCL   Leagu             Atletico Madrid  19:00  RB Leipzig               
@@ -135,12 +135,16 @@ ITA-L  RS-5                     Juventus   TBD   Napoli
                            ITA-2   TL-18         TL-26   ITA-6 
                                   league         UCL                     
 
+ITA-L  RS-5                      AS Roma   TBD   Udinese                  
+                          ITA-16    TL-6         TL-None ITA-4 
+                                  UEL|TL         league                  
+
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
-                           ENG-1    TL-2         TL-14   ENG-4 
+                           ENG-1    TL-2         TL-13   ENG-4 
                            UCL|TL|league         UCL|league              
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-14   TL-51         TL-13   GER-4 
+                          GER-14   TL-51         TL-14   GER-4 
                                   league         UCL                     
 
                                        28|09|2024
@@ -155,9 +159,9 @@ ESP-L  RS-8              Atletico Madrid   TBD   Real Madrid
                            ESP-3    TL-8         TL-1    ESP-2 
                            UCL|TL|league         UCL|TL|league           
 
-ITA-L  RS-6                       Torino   TBD   Lazio                    
-                           ITA-3 TL-None         TL-24   ITA-8 
-                                  league         UCL                     
+ITA-L  RS-6                      Udinese   TBD   Inter                    
+                           ITA-4 TL-None         TL-5    ITA-1 
+                                  league         UCL|TL|league           
 
                                        01|10|2024
 
@@ -170,7 +174,7 @@ ITA-L  RS-6                       Torino   TBD   Lazio
                               UEL|league         UEL|league              
 
  UCL   Leagu                     Arsenal  19:00  Paris Saint Germain      
-                           ENG-4   TL-14         TL-10   FRA-1 
+                           ENG-4   TL-13         TL-10   FRA-1 
                               UCL|league         UCL|TL                  
 
                                        02|10|2024
@@ -180,7 +184,7 @@ ITA-L  RS-6                       Torino   TBD   Lazio
                                      UCL         UEL|league              
 
  UCL   Leagu                 Aston Villa  19:00  Bayern München           
-                           ENG-7   TL-54         TL-4    GER-2 
+                           ENG-7   TL-55         TL-4    GER-2 
                                   league         UCL|TL|league           
 
  UCL   Leagu                  RB Leipzig  19:00  Juventus                 
@@ -192,4 +196,14 @@ ITA-L  RS-6                       Torino   TBD   Lazio
  UEL   Leagu                    FC Porto  19:00  Manchester United        
                            POR-2   TL-15         TL-12   ENG-14
                                      UCL         cup                     
+
+                                       06|10|2024
+
+ESP-L  RS-9                  Real Madrid   TBD   Villarreal               
+                           ESP-2    TL-1         TL-16   ESP-4 
+                           UCL|TL|league         league                  
+
+ESP-L  RS-9                Real Sociedad   TBD   Atletico Madrid          
+                          ESP-13   TL-32         TL-8    ESP-3 
+                                     UCL         UCL|TL|league           
 
