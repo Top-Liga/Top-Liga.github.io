@@ -23,7 +23,7 @@ ITA
                            3  Juventus                                   
                            4  Atalanta                         UEL       
       24-25 Serie A             
-                           4  Udinese                                    
+                           3  Torino                                     
                               Napoli                           UCL       
                               Lazio                            UCL       
                               AS Roma                    TL    UEL       
