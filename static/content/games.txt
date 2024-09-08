@@ -84,7 +84,7 @@ GER-L  RS-3            Borussia Dortmund  18:30  1. FC Heidenheim
                                        14|09|2024
 
 ESP-L  RS-5                Real Sociedad  19:00  Real Madrid              
-                          ESP-13   TL-33         TL-1    ESP-2 
+                          ESP-13   TL-32         TL-1    ESP-2 
                                      UCL         UCL|TL|league           
 
                                        15|09|2024
@@ -212,7 +212,7 @@ ESP-L  RS-9                  Real Madrid   TBD   Villarreal
                            UCL|TL|league         league                  
 
 ESP-L  RS-9                Real Sociedad   TBD   Atletico Madrid          
-                          ESP-13   TL-33         TL-8    ESP-3 
+                          ESP-13   TL-32         TL-8    ESP-3 
                                      UCL         UCL|TL|league           
 
 ITA-L  RS-7                        Inter   TBD   Torino                   
