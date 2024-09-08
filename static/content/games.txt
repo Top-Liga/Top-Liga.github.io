@@ -75,10 +75,16 @@ ITA-L  RS-3                     Juventus   0:0   AS Roma
 
 ================================================================================
 
+                                       13|09|2024
+
+GER-L  RS-3            Borussia Dortmund  18:30  1. FC Heidenheim         
+                           GER-4   TL-14         TL-None GER-1 
+                                     UCL         league                  
+
                                        14|09|2024
 
 ESP-L  RS-5                Real Sociedad  19:00  Real Madrid              
-                          ESP-13   TL-31         TL-1    ESP-2 
+                          ESP-13   TL-33         TL-1    ESP-2 
                                      UCL         UCL|TL|league           
 
                                        15|09|2024
@@ -119,7 +125,7 @@ ESP-L  RS-5                       Girona  14:15  Barcelona
 
  UCL   LS-1              Atletico Madrid  19:00  RB Leipzig               
                            ESP-3    TL-8         TL-7    GER-3 
-                           UCL|TL|league         UCL|TL|league           
+                           UCL|TL|league         UCL|TL                  
 
                                        22|09|2024
 
@@ -189,13 +195,19 @@ ITA-L  RS-6                      Udinese   TBD   Inter
 
  UCL   LS-2                   RB Leipzig  19:00  Juventus                 
                            GER-3    TL-7         TL-18   ITA-2 
-                           UCL|TL|league         league                  
+                                  UCL|TL         league                  
 
                                        03|10|2024
 
  UEL   LS-2                     FC Porto  19:00  Manchester United        
                            POR-2   TL-15         TL-12   ENG-14
                                      UCL         cup                     
+
+                                       05|10|2024
+
+GER-L  RS-6             1. FC Heidenheim   TBD   RB Leipzig               
+                           GER-1 TL-None         TL-7    GER-3 
+                                  league         UCL|TL                  
 
                                        06|10|2024
 
@@ -204,7 +216,7 @@ ESP-L  RS-9                  Real Madrid   TBD   Villarreal
                            UCL|TL|league         league                  
 
 ESP-L  RS-9                Real Sociedad   TBD   Atletico Madrid          
-                          ESP-13   TL-31         TL-8    ESP-3 
+                          ESP-13   TL-33         TL-8    ESP-3 
                                      UCL         UCL|TL|league           
 
 ENG-L  RS-7                  Aston Villa  13:00  Manchester United        
