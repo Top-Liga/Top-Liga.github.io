@@ -23,7 +23,7 @@ ITA
                            3  Juventus                         UCL       
                            4  Atalanta                                   
       24-25 Serie A             
-                           3  Torino                                     
+                           4  Udinese                                    
                               Napoli                                     
                               Lazio                                      
                               AS Roma                    TL              
@@ -45,7 +45,7 @@ FRA
                               Marseille                            
 NED
                               PSV Eindhoven                        
-UKR
-                              Shakhtar Donetsk                     
 DEN
                               FC Copenhagen                        
+UKR
+                              Shakhtar Donetsk                     
