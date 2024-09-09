@@ -1,8 +1,8 @@
                   quota  rating
- 1  UEFA             24  35.22
- 2  TopLiga          10  14.67
- 3  England           6   9.95
- 4  Spain             5   7.95
- 5  Italy             5   7.73
- 6  Germany           4   6.54
- 7  Portugal          1   2.71
+ 1  UEFA             24  35.07
+ 2  TopLiga          10  14.61
+ 3  England           6   9.94
+ 4  Spain             5   7.93
+ 5  Italy             5   7.72
+ 6  Germany           4   6.49
+ 7  Portugal          1   2.70
