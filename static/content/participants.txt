@@ -20,10 +20,10 @@ ITA
       23-24 Serie A             
                            1  Inter                      TL              
                            2  AC Milan                                   
-                           3  Juventus                         UCL       
+                           3  Juventus                                   
                            4  Atalanta                                   
       24-25 Serie A             
-                           4  Udinese                                    
+                           3  Torino                                     
                               Napoli                                     
                               Lazio                                      
                               AS Roma                    TL              
@@ -45,7 +45,7 @@ FRA
                               Marseille                            
 NED
                               PSV Eindhoven                        
-DEN
-                              FC Copenhagen                        
 UKR
                               Shakhtar Donetsk                     
+DEN
+                              FC Copenhagen                        
