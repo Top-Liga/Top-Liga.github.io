@@ -84,7 +84,7 @@ GER-L  RS-3            Borussia Dortmund  18:30  1. FC Heidenheim
                                        14|09|2024
 
 ESP-L  RS-5                Real Sociedad  19:00  Real Madrid              
-                          ESP-13   TL-31         TL-1    ESP-2 
+                          ESP-13   TL-32         TL-1    ESP-2 
                                      UCL         UCL|TL|league           
 
                                        15|09|2024
@@ -96,8 +96,8 @@ ESP-L  RS-5                       Girona  14:15  Barcelona
                                        17|09|2024
 
  UCL   LS-1                     Juventus  16:45  PSV Eindhoven            
-                           ITA-2   TL-18         TL-32   NED-1 
-                                  league         UCL                     
+                           ITA-2   TL-18         TL-31   NED-1 
+                              UCL|league         UCL                     
 
  UCL   LS-1                  Real Madrid  19:00  VfB Stuttgart            
                            ESP-2    TL-1         TL-51   GER-14
@@ -139,7 +139,11 @@ ITA-L  RS-5                        Inter   TBD   AC Milan
 
 ITA-L  RS-5                     Juventus   TBD   Napoli                   
                            ITA-2   TL-18         TL-26   ITA-6 
-                                  league         UCL                     
+                              UCL|league         UCL                     
+
+ITA-L  RS-5                      AS Roma   TBD   Udinese                  
+                          ITA-16    TL-6         TL-None ITA-4 
+                                  UEL|TL         league                  
 
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
                            ENG-1    TL-2         TL-13   ENG-4 
@@ -153,7 +157,7 @@ GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund
 
 GER-L  RS-5               Bayern München  16:30  Bayer Leverkusen         
                            GER-2    TL-4         TL-11   GER-8 
-                       UCL|UCL|TL|league         UEL|league              
+                           UCL|TL|league         UEL|league              
 
                                        29|09|2024
 
@@ -161,14 +165,14 @@ ESP-L  RS-8              Atletico Madrid   TBD   Real Madrid
                            ESP-3    TL-8         TL-1    ESP-2 
                            UCL|TL|league         UCL|TL|league           
 
-ITA-L  RS-6                       Torino   TBD   Lazio                    
-                           ITA-3 TL-None         TL-24   ITA-8 
-                                  league         UCL                     
+ITA-L  RS-6                      Udinese   TBD   Inter                    
+                           ITA-4 TL-None         TL-5    ITA-1 
+                                  league         UCL|TL|league           
 
                                        01|10|2024
 
  UCL   LS-2                PSV Eindhoven  19:00  Sporting CP              
-                           NED-1   TL-32         TL-22   POR-1 
+                           NED-1   TL-31         TL-22   POR-1 
                                      UCL         league                  
 
  UCL   LS-2             Bayer Leverkusen  19:00  AC Milan                 
@@ -187,11 +191,11 @@ ITA-L  RS-6                       Torino   TBD   Lazio
 
  UCL   LS-2                  Aston Villa  19:00  Bayern München           
                            ENG-7   TL-54         TL-4    GER-2 
-                                  league         UCL|UCL|TL|league       
+                                  league         UCL|TL|league           
 
  UCL   LS-2                   RB Leipzig  19:00  Juventus                 
                            GER-3    TL-7         TL-18   ITA-2 
-                                  UCL|TL         league                  
+                                  UCL|TL         UCL|league              
 
                                        03|10|2024
 
@@ -212,12 +216,8 @@ ESP-L  RS-9                  Real Madrid   TBD   Villarreal
                            UCL|TL|league         league                  
 
 ESP-L  RS-9                Real Sociedad   TBD   Atletico Madrid          
-                          ESP-13   TL-31         TL-8    ESP-3 
+                          ESP-13   TL-32         TL-8    ESP-3 
                                      UCL         UCL|TL|league           
-
-ITA-L  RS-7                        Inter   TBD   Torino                   
-                           ITA-1    TL-5         TL-None ITA-3 
-                           UCL|TL|league         league                  
 
 ENG-L  RS-7                  Aston Villa  13:00  Manchester United        
                            ENG-7   TL-54         TL-12   ENG-14
