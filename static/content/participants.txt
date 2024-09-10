@@ -9,12 +9,13 @@ ENG
                               Manchester United                          
 ESP
       23-24 La Liga             
-                           1  Real Madrid                                
+                           1  Real Madrid                      UCL       
                            2  Barcelona                                  
                            3  Girona                                     
                            4  Atletico Madrid                            
       24-25 La Liga             
                            4  Villarreal                                 
+                              Real Sociedad                              
 ITA
       23-24 Serie A             
                            1  Inter                                      
@@ -22,18 +23,29 @@ ITA
                            3  Juventus                                   
                            4  Atalanta                                   
       24-25 Serie A             
-                           4  Udinese                                    
+                           3  Torino                                     
+                              Napoli                                     
+                              Lazio                                      
                               AS Roma                    TL              
 GER
       23-24 Bundesliga          
                            1  Bayer Leverkusen                           
                            2  VfB Stuttgart                              
-                           3  Bayern Munich                              
+                           3  Bayern Munich                    UCL       
       24-25 Bundesliga          
                            1  1. FC Heidenheim                           
                               RB Leipzig                 TL              
+                              Borussia Dortmund                          
 POR
       23-24 Primeira Liga       
                            1  Sporting CP                                
+                              FC Porto                                   
 FRA
                               Paris Saint Germain        TL        
+                              Marseille                            
+NED
+                              PSV Eindhoven                        
+DEN
+                              FC Copenhagen                        
+UKR
+                              Shakhtar Donetsk                     
