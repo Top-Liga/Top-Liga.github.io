@@ -45,7 +45,7 @@ FRA
                               Marseille                            
 NED
                               PSV Eindhoven                        
-DEN
-                              FC Copenhagen                        
 UKR
                               Shakhtar Donetsk                     
+DEN
+                              FC Copenhagen                        
