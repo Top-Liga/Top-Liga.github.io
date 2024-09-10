@@ -100,7 +100,7 @@ ESP-L  RS-5                       Girona  14:15  Barcelona
                               UCL|league         UCL                     
 
  UCL   LS-1                  Real Madrid  19:00  VfB Stuttgart            
-                           ESP-2    TL-1         TL-51   GER-14
+                           ESP-2    TL-1         TL-52   GER-14
                            UCL|TL|league         league                  
 
  UCL   LS-1                     AC Milan  19:00  Liverpool                
@@ -150,7 +150,7 @@ ENG-L  RS-5              Manchester City  15:30  Arsenal
                            UCL|TL|league         UCL|league              
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-14   TL-51         TL-15   GER-4 
+                          GER-14   TL-52         TL-15   GER-4 
                                   league         UCL                     
 
                                        28|09|2024
