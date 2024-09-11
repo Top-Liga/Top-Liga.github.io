@@ -84,7 +84,7 @@ GER-L  RS-3            Borussia Dortmund  18:30  1. FC Heidenheim
                                        14|09|2024
 
 ESP-L  RS-5                Real Sociedad  19:00  Real Madrid              
-                          ESP-13   TL-32         TL-1    ESP-2 
+                          ESP-13   TL-33         TL-1    ESP-2 
                                      UCL         UCL|TL|league           
 
                                        15|09|2024
@@ -96,11 +96,11 @@ ESP-L  RS-5                       Girona  14:15  Barcelona
                                        17|09|2024
 
  UCL   LS-1                     Juventus  16:45  PSV Eindhoven            
-                           ITA-2   TL-18         TL-31   NED-1 
+                           ITA-2   TL-18         TL-32   NED-1 
                               UCL|league         UCL                     
 
  UCL   LS-1                  Real Madrid  19:00  VfB Stuttgart            
-                           ESP-2    TL-1         TL-52   GER-14
+                           ESP-2    TL-1         TL-51   GER-14
                            UCL|TL|league         league                  
 
  UCL   LS-1                     AC Milan  19:00  Liverpool                
@@ -146,14 +146,14 @@ ENG-L  RS-5              Manchester City  15:30  Arsenal
                            UCL|TL|league         UCL|league              
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-14   TL-52         TL-15   GER-4 
+                          GER-14   TL-51         TL-15   GER-4 
                                   league         UCL                     
 
                                        28|09|2024
 
 GER-L  RS-5               Bayern München  16:30  Bayer Leverkusen         
                            GER-2    TL-4         TL-11   GER-8 
-                           UCL|TL|league         UEL|league              
+                           UCL|TL|league         UEL|TL|league           
 
                                        29|09|2024
 
@@ -168,12 +168,12 @@ ITA-L  RS-6                       Torino   TBD   Lazio
                                        01|10|2024
 
  UCL   LS-2                PSV Eindhoven  19:00  Sporting CP              
-                           NED-1   TL-31         TL-22   POR-1 
+                           NED-1   TL-32         TL-22   POR-1 
                                      UCL         league                  
 
  UCL   LS-2             Bayer Leverkusen  19:00  AC Milan                 
                            GER-8   TL-11         TL-19   ITA-14
-                              UEL|league         UEL|league              
+                           UEL|TL|league         UEL|league              
 
  UCL   LS-2                      Arsenal  19:00  Paris Saint Germain      
                            ENG-4   TL-13         TL-10   FRA-1 
@@ -212,7 +212,7 @@ ESP-L  RS-9                  Real Madrid   TBD   Villarreal
                            UCL|TL|league         league                  
 
 ESP-L  RS-9                Real Sociedad   TBD   Atletico Madrid          
-                          ESP-13   TL-32         TL-8    ESP-3 
+                          ESP-13   TL-33         TL-8    ESP-3 
                                      UCL         UCL|TL|league           
 
 ITA-L  RS-7                        Inter   TBD   Torino                   
