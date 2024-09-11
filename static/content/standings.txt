@@ -28,12 +28,12 @@
 28  Sevilla                   55   -0.95     0 pl       ESP 19                             
 29  Ajax                      54   -0.99     0 pl       NED 12                             
 30  Rangers                   53   -1.05     0 pl       SCO 4                              
-31  Eintracht Frankfurt       53   -1.09     0 pl       GER 9                              
 31  Real Sociedad             53   -1.09     0 pl       ESP 13       UCL p 13              
+31  Eintracht Frankfurt       53   -1.09     0 pl       GER 9                              
 31  PSV Eindhoven             53   -1.09     0 pl       NED 1        UCL p 15              
 34  Slavia Praha              51   -1.22     0 pl       CZE 2                              
-35  Dinamo Zagreb             50   -1.28     0 pl       CRO 1                              
 35  Lille                     50   -1.28     0 pl       FRA 6                              
+35  Dinamo Zagreb             50   -1.28     0 pl       CRO 1                              
 35  Marseille                 50   -1.28     0 pl       FRA 2        UEL p 4               
 38  Shakhtar Donetsk          49   -1.32     0 pl       UKR 9        UCL p 17              
 39  Red Bull Salzburg         49   -1.34     0 pl       AUT 4                              
