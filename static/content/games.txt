@@ -2,75 +2,75 @@
 
 POR-S  Final                 Sporting CP   3:3   FC Porto                 
                           POR-1p   TL-31         TL-21   POR-3p
-                                  league         UCL                     
+                                     POR         UCL                     
 
                                        10|08|2024
 
 ENG-S  Final             Manchester City   1:1   Manchester United        
                           ENG-1p    TL-1         TL-11   ENG-8p
-                           UCL|TL|league         cup                     
+                         UCL | Top | ENG         ENG                     
 
                                        14|08|2024
 
  USC   Final                 Real Madrid   2:0   Atalanta                 
                           ESP-1p    TL-3         TL-18   ITA-4p
-                           UCL|TL|league         UEL|league              
+                         UCL | Top | ESP         UEL | ITA               
 
                                        17|08|2024
 
 GER-S  Final            Bayer Leverkusen   2:2   VfB Stuttgart            
                           GER-1p   TL-13         TL-None GER-2p
-                              UEL|league         league                  
+                               UEL | GER         GER                     
 
                                        24|08|2024
 
 ENG-L  RS-2                  Aston Villa   0:2   Arsenal                  
                            ENG-5 TL-None         TL-22   ENG-2 
-                                  league         UCL|league              
+                                     ENG         UCL | ENG               
 
 ESP-L  RS-2                    Barcelona   2:1   Athletic Club            
                            ESP-1   TL-13         TL-None ESP-9 
-                              UCL|league         league                  
+                               UCL | ESP         ESP                     
 
                                        25|08|2024
 
 ESP-L  RS-2              Atletico Madrid   3:0   Girona                   
                            ESP-9   TL-15         TL-None ESP-12
-                              UCL|league         league                  
+                               UCL | ESP         ESP                     
 
                                        30|08|2024
 
 ITA-L  RS-3                        Inter   4:0   Atalanta                 
                            ITA-1   TL-10         TL-16   ITA-9 
-                           UCL|TL|league         UEL|league              
+                         UCL | Top | ITA         UEL | ITA               
 
                                        31|08|2024
 
 ENG-L  RS-3                      Arsenal   1:1   Brighton                 
                            ENG-3   TL-15         TL-None ENG-2 
-                              UCL|league         league                  
+                               UCL | ENG         ENG                     
 
 GER-L  RS-2             Bayer Leverkusen   2:3   RB Leipzig               
                            GER-6   TL-10         TL-12   GER-8 
-                           UEL|TL|league         UCL|league              
+                         UEL | Top | GER         UCL | GER               
 
 ITA-L  RS-3                        Lazio   2:2   AC Milan                 
                            ITA-9   TL-34         TL-30   ITA-14
-                                     UCL         UCL|league              
+                                     UCL         UCL | ITA               
 
 POR-L  RS-4                  Sporting CP   2:0   FC Porto                 
                            POR-1   TL-24         TL-16   POR-2 
-                                  league         UCL                     
+                                     POR         UCL                     
 
                                        01|09|2024
 
 ENG-L  RS-3            Manchester United   0:3   Liverpool                
                           ENG-11   TL-12         TL-5    ENG-4 
-                                     cup         UEL|TL|league           
+                                     ENG         UEL | Top | ENG         
 
 ITA-L  RS-3                     Juventus   0:0   AS Roma                  
                            ITA-3   TL-24         TL-7    ITA-17
-                                  league         UEL|TL                  
+                                     ITA         UEL | Top               
 
 
 ================================================================================
@@ -79,149 +79,149 @@ ITA-L  RS-3                     Juventus   0:0   AS Roma
 
 GER-L  RS-3            Borussia Dortmund  18:30  1. FC Heidenheim         
                            GER-4   TL-15         TL-None GER-1 
-                                     UCL         league                  
+                                     UCL         GER                     
 
                                        14|09|2024
 
 ESP-L  RS-5                Real Sociedad  19:00  Real Madrid              
                           ESP-13   TL-32         TL-1    ESP-2 
-                                     UCL         UCL|TL|league           
+                                     UCL         UCL | Top | ESP         
 
                                        15|09|2024
 
 ESP-L  RS-5                       Girona  14:15  Barcelona                
                            ESP-5   TL-55         TL-9    ESP-1 
-                                  league         UCL|TL|league           
+                                     ESP         UCL | Top | ESP         
 
                                        17|09|2024
 
  UCL   LS-1                     Juventus  16:45  PSV Eindhoven            
                            ITA-2   TL-17         TL-33   NED-1 
-                              UCL|league         UCL                     
+                               UCL | ITA         UCL                     
 
  UCL   LS-1                  Real Madrid  19:00  VfB Stuttgart            
-                           ESP-2    TL-1         TL-51   GER-14
-                           UCL|TL|league         league                  
+                           ESP-2    TL-1         TL-52   GER-14
+                         UCL | Top | ESP         GER                     
 
  UCL   LS-1                     AC Milan  19:00  Liverpool                
                           ITA-14   TL-19         TL-3    ENG-2 
-                              UEL|league         UEL|TL|league           
+                               UEL | ITA         UEL | Top | ENG         
 
                                        18|09|2024
 
  UCL   LS-1              Manchester City  19:00  Inter                    
                            ENG-1    TL-2         TL-5    ITA-1 
-                           UCL|TL|league         UCL|TL|league           
+                         UCL | Top | ENG         UCL | Top | ITA         
 
  UCL   LS-1          Paris Saint Germain  19:00  Girona                   
                            FRA-1   TL-11         TL-55   ESP-5 
-                                     UCL         league                  
+                                     UCL         ESP                     
 
                                        19|09|2024
 
  UCL   LS-1                     Atalanta  19:00  Arsenal                  
-                          ITA-12   TL-20         TL-12   ENG-4 
-                              UEL|league         UCL|league              
+                          ITA-12   TL-20         TL-13   ENG-4 
+                               UEL | ITA         UCL | ENG               
 
  UCL   LS-1              Atletico Madrid  19:00  RB Leipzig               
                            ESP-3    TL-8         TL-7    GER-3 
-                           UCL|TL|league         UCL|TL                  
+                         UCL | Top | ESP         UCL | Top               
 
                                        21|09|2024
 
 ITA-L  RS-5                     Juventus  16:00  Napoli                   
                            ITA-2   TL-17         TL-26   ITA-6 
-                              UCL|league         UCL                     
+                               UCL | ITA         UCL                     
 
                                        22|09|2024
 
 ESP-L  RS-6                   Villarreal   TBD   Barcelona                
                            ESP-4   TL-16         TL-9    ESP-1 
-                                  league         UCL|TL|league           
+                                     ESP         UCL | Top | ESP         
 
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
-                           ENG-1    TL-2         TL-12   ENG-4 
-                           UCL|TL|league         UCL|league              
+                           ENG-1    TL-2         TL-13   ENG-4 
+                         UCL | Top | ENG         UCL | ENG               
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
-                          GER-14   TL-51         TL-15   GER-4 
-                                  league         UCL                     
+                          GER-14   TL-52         TL-15   GER-4 
+                                     GER         UCL                     
 
 ITA-L  RS-5                      AS Roma  16:00  Udinese                  
                           ITA-16    TL-6         TL-None ITA-4 
-                                  UEL|TL         league                  
+                               UEL | Top         ITA                     
 
 ITA-L  RS-5                        Inter  18:45  AC Milan                 
                            ITA-1    TL-5         TL-19   ITA-14
-                           UCL|TL|league         UEL|league              
+                         UCL | Top | ITA         UEL | ITA               
 
                                        28|09|2024
 
 ITA-L  RS-6                      Udinese  13:00  Inter                    
                            ITA-4 TL-None         TL-5    ITA-1 
-                                  league         UCL|TL|league           
+                                     ITA         UCL | Top | ITA         
 
 GER-L  RS-5               Bayern München  16:30  Bayer Leverkusen         
                            GER-2    TL-4         TL-10   GER-8 
-                           UCL|TL|league         UEL|TL|league           
+                         UCL | Top | GER         UEL | Top | GER         
 
                                        29|09|2024
 
 ESP-L  RS-8              Atletico Madrid   TBD   Real Madrid              
                            ESP-3    TL-8         TL-1    ESP-2 
-                           UCL|TL|league         UCL|TL|league           
+                         UCL | Top | ESP         UCL | Top | ESP         
 
                                        01|10|2024
 
  UCL   LS-2                PSV Eindhoven  19:00  Sporting CP              
                            NED-1   TL-33         TL-22   POR-1 
-                                     UCL         league                  
+                                     UCL         POR                     
 
  UCL   LS-2             Bayer Leverkusen  19:00  AC Milan                 
                            GER-8   TL-10         TL-19   ITA-14
-                           UEL|TL|league         UEL|league              
+                         UEL | Top | GER         UEL | ITA               
 
  UCL   LS-2                      Arsenal  19:00  Paris Saint Germain      
-                           ENG-4   TL-12         TL-11   FRA-1 
-                              UCL|league         UCL                     
+                           ENG-4   TL-13         TL-11   FRA-1 
+                               UCL | ENG         UCL                     
 
                                        02|10|2024
 
  UCL   LS-2             Shakhtar Donetsk  16:45  Atalanta                 
                            UKR-9   TL-38         TL-20   ITA-12
-                                     UCL         UEL|league              
+                                     UCL         UEL | ITA               
 
  UCL   LS-2                  Aston Villa  19:00  Bayern München           
                            ENG-7   TL-54         TL-4    GER-2 
-                                  league         UCL|TL|league           
+                                     ENG         UCL | Top | GER         
 
  UCL   LS-2                   RB Leipzig  19:00  Juventus                 
                            GER-3    TL-7         TL-17   ITA-2 
-                                  UCL|TL         UCL|league              
+                               UCL | Top         UCL | ITA               
 
                                        03|10|2024
 
  UEL   LS-2                     FC Porto  19:00  Manchester United        
-                           POR-2   TL-14         TL-13   ENG-14
-                                     UCL         cup                     
+                           POR-2   TL-14         TL-12   ENG-14
+                                     UCL         ENG                     
 
                                        05|10|2024
 
 GER-L  RS-6             1. FC Heidenheim   TBD   RB Leipzig               
                            GER-1 TL-None         TL-7    GER-3 
-                                  league         UCL|TL                  
+                                     GER         UCL | Top               
 
                                        06|10|2024
 
 ESP-L  RS-9                  Real Madrid   TBD   Villarreal               
                            ESP-2    TL-1         TL-16   ESP-4 
-                           UCL|TL|league         league                  
+                         UCL | Top | ESP         ESP                     
 
 ESP-L  RS-9                Real Sociedad   TBD   Atletico Madrid          
                           ESP-13   TL-32         TL-8    ESP-3 
-                                     UCL         UCL|TL|league           
+                                     UCL         UCL | Top | ESP         
 
 ENG-L  RS-7                  Aston Villa  13:00  Manchester United        
-                           ENG-7   TL-54         TL-13   ENG-14
-                                  league         cup                     
+                           ENG-7   TL-54         TL-12   ENG-14
+                                     ENG         ENG                     
 
