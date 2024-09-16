@@ -23,7 +23,7 @@ ITA
                            3  Juventus                             UCL c 13          
                            4  Atalanta                             UEL p 1           
       24-25 Serie A             
-                           5  Udinese                                                
+                           1  Udinese                                                
                               Napoli                               UCL p 14          
                               Lazio                                UCL p 12          
                               AS Roma                    TL 7      UEL p 3           
