@@ -32,9 +32,9 @@
 32  PSV Eindhoven             51   -1.16     0 pl       NED 1        UCL p 15              
 32  Eintracht Frankfurt       51   -1.16     0 pl       GER 6                              
 34  Slavia Praha              49   -1.29     0 pl       CZE 2                              
-35  Lille                     48   -1.35     0 pl       FRA 8                              
 35  Marseille                 48   -1.35     0 pl       FRA 2        UEL p 4               
 35  Dinamo Zagreb             48   -1.35     0 pl       CRO 3                              
+35  Lille                     48   -1.35     0 pl       FRA 8                              
 38  Shakhtar Donetsk          48   -1.38     0 pl       UKR 7        UCL p 17              
 39  Red Bull Salzburg         48   -1.41     0 pl       AUT 5                              
 40  AZ Alkmaar                47   -1.45     0 pl       NED 2                              
@@ -42,9 +42,9 @@
 42  SC Braga                  46   -1.54     0 pl       POR 7                              
 43  Tottenham                 45   -1.58     0 pl       ENG 13                             
 43  Olympiakos Piraeus        45   -1.58     0 pl       GRE 1                              
-45  FC Copenhagen             45   -1.61     0 pl       DEN 5        UCL p 16              
-45  FK Crvena Zvezda          45   -1.61     0 pl       SRB 1                              
 45  Rennes                    45   -1.61     0 pl       FRA 7                              
+45  FK Crvena Zvezda          45   -1.61     0 pl       SRB 1                              
+45  FC Copenhagen             45   -1.61     0 pl       DEN 5        UCL p 16              
 48  Fenerbahce                44   -1.64     0 pl       TUR 1                              
 49  PAOK                      43   -1.69     0 pl       GRE 2                              
 49  Gent                      43   -1.69     0 pl       BEL 12                             
@@ -52,5 +52,5 @@
 52  Brighton                   3   -4.38     1 pl       ENG 6                              
 53  Athletic Club              1   -4.55     1 pl       ESP 9                              
 54  1. FC Heidenheim           0   -4.60     1 pl       GER 4                              
-55  Aston Villa                0   -4.61     1 pl       ENG 5                              ENG L p 4     
 55  Girona                     0   -4.61     2 pl       ESP 8                              ESP L p 3     
+55  Aston Villa                0   -4.61     1 pl       ENG 5                              ENG L p 4     
