@@ -114,13 +114,13 @@ ESP-L  RS-5                       Girona   1:4   Barcelona
                        UCLp5 | TL2 | Lp1         UCLp10 | TL5 | Lp1      
 
  UCL   LS-1          Paris Saint Germain  19:00  Girona                   
-                           FRA-1   TL-12         TL-56   ESP-8 
+                           FRA-1   TL-13         TL-56   ESP-8 
                                    UCLp4         Lp3                     
 
                                        19|09|2024
 
  UCL   LS-1                     Atalanta  19:00  Arsenal                  
-                           ITA-9   TL-20         TL-13   ENG-2 
+                           ITA-9   TL-20         TL-12   ENG-2 
                              UELp1 | Lp4         UCLp8 | Lp2             
 
  UCL   LS-1              Atletico Madrid  19:00  RB Leipzig               
@@ -136,7 +136,7 @@ ITA-L  RS-5                     Juventus  16:00  Napoli
                                        22|09|2024
 
 ENG-L  RS-5              Manchester City  15:30  Arsenal                  
-                           ENG-1    TL-2         TL-13   ENG-2 
+                           ENG-1    TL-2         TL-12   ENG-2 
                        UCLp5 | TL2 | Lp1         UCLp8 | Lp2             
 
 GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund        
@@ -186,7 +186,7 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
                              UELp2 | Lp1         UELp6 | Lp2             
 
  UCL   LS-2                      Arsenal  19:00  Paris Saint Germain      
-                           ENG-2   TL-13         TL-12   FRA-1 
+                           ENG-2   TL-12         TL-13   FRA-1 
                              UCLp8 | Lp2         UCLp4                   
 
                                        02|10|2024
