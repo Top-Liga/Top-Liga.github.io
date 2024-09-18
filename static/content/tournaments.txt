@@ -1,8 +1,8 @@
                                quota
 UEFA
-      23-24 Champions League      16
+      23-24 Champions League      17
       24-25 Champions League       2
-      23-24 Europa League          6
+      23-24 Europa League          5
 TL
       TopLiga                     10
 ENG
@@ -20,3 +20,5 @@ GER
       24-25 Bundesliga             1
 POR
       23-24 Primeira Liga          1
+FRA
+      23-24 Ligue 1                1
