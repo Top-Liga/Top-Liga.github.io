@@ -3,23 +3,23 @@ ENG
                            1  Manchester City            TL 2      UCL p 5           
                            2  Arsenal                              UCL p 8           
                            3  Liverpool                  TL 3      UEL p 5           
-                           4  Aston Villa                          UCL c 4           
+                           4  Aston Villa                          UCL c 5           
       24-25 Premier League      
                            3  Newcastle                                              
                               Manchester United                              Cup p 1 
 ESP
       23-24 La Liga             
                            1  Real Madrid                TL 1      UCL p 1           
-                           2  Barcelona                            UCL p 7           
+                           2  Barcelona                  TL 10     UCL p 7           
                            3  Girona                                                 
-                           4  Atletico Madrid            TL 10     UCL p 6           
+                           4  Atletico Madrid            TL 9      UCL p 6           
       24-25 La Liga             
                            4  Villarreal                                             
                               Real Sociedad                        UCL p 13          
 ITA
       23-24 Serie A             
                            1  Inter                      TL 8      UCL p 10          
-                           2  AC Milan                                               
+                           2  AC Milan                             UEL p 6           
                            3  Juventus                                               
                            4  Atalanta                             UEL p 1           
       24-25 Serie A             
@@ -34,7 +34,7 @@ GER
                            3  Bayern Munich              TL 6      UCL p 3           
       24-25 Bundesliga          
                            2  Borussia Dortmund          TL 5      UCL p 2           
-                              RB Leipzig                 TL 9      UCL p 11          
+                              RB Leipzig                           UCL p 11          
 POR
       23-24 Primeira Liga       
                            1  Sporting CP                                            
@@ -46,8 +46,6 @@ FRA
 NED
                               PSV Eindhoven                        UCL p 15
 SCO
-                              Celtic                               UCL c 2 
-UKR
-                              Shakhtar Donetsk                     UCL p 17
+                              Celtic                               UCL c 3 
 DEN
                               FC Copenhagen                        UCL p 16
