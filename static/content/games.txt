@@ -145,7 +145,7 @@ GER-L  RS-4                VfB Stuttgart  15:30  Borussia Dortmund
 
 ITA-L  RS-5                      AS Roma  16:00  Udinese                  
                           ITA-16    TL-8         TL-None ITA-1 
-                             UELp3 | TL8         Lc1                     
+                             UELp3 | TL7         Lc1                     
 
 ESP-L  RS-6                   Villarreal  16:30  Barcelona                
                            ESP-4   TL-19         TL-10   ESP-1 
@@ -196,7 +196,7 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
                                        02|10|2024
 
  UCL   LS-2             Shakhtar Donetsk  16:45  Atalanta                 
-                           UKR-7   TL-35         TL-17   ITA-9 
+                           UKR-7   TL-37         TL-17   ITA-9 
                                   UCLp17         UELp1 | Lp4             
 
  UCL   LS-2                  Aston Villa  19:00  Bayern München           

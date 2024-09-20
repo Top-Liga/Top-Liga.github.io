@@ -26,7 +26,7 @@ ITA
                            1  Udinese                                                
                               Napoli                               UCL p 14          
                               Lazio                                UCL p 12          
-                              AS Roma                    TL 8      UEL p 3           
+                              AS Roma                    TL 7      UEL p 3           
 GER
       23-24 Bundesliga          
                            1  Bayer Leverkusen                     UEL p 2           
@@ -47,7 +47,7 @@ NED
                               PSV Eindhoven                        UCL p 15
 SCO
                               Celtic                               UCL c 3 
-DEN
-                              FC Copenhagen                        UCL p 16
 UKR
                               Shakhtar Donetsk                     UCL p 17
+DEN
+                              FC Copenhagen                        UCL p 16
