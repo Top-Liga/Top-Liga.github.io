@@ -15,7 +15,7 @@
 15  Juventus                  67   -0.05     3 pl       ITA 4                              ITA L p 3     
 16  FC Porto                  67   -0.09     2 pl       POR 2        UCL p 9               
 17  Atalanta                  65   -0.23     3 pl       ITA 8        UEL p 1               ITA L p 4     
-18  AC Milan                  63   -0.31     2 pl       ITA 10                             ITA L p 2     
+18  AC Milan                  63   -0.30     2 pl       ITA 11                             ITA L p 2     
 19  Napoli                    63   -0.32     1 pl       ITA 3        UCL p 14              
 20  Villarreal                63   -0.34     0 pl       ESP 4                              ESP L c 4     
 21  Chelsea                   63   -0.35     0 pl       ENG 4                              ENG L c 5     
@@ -26,28 +26,28 @@
 26  West Ham                  57   -0.75     0 pl       ENG 14                             
 27  PSV Eindhoven             56   -0.78     1 pl       NED 2        UCL p 15              
 28  Club Brugge KV            54   -0.97     0 pl       BEL 2                              
-29  Feyenoord                 52   -1.06     0 pl       NED 8                              
+29  Feyenoord                 52   -1.06     0 pl       NED 10                             
 30  Sevilla                   52   -1.10     0 pl       ESP 14                             
-31  Ajax                      51   -1.12     0 pl       NED 7                              
+31  Ajax                      51   -1.12     0 pl       NED 8                              
 32  Rangers                   50   -1.19     0 pl       SCO 3                              
 33  Eintracht Frankfurt       50   -1.22     0 pl       GER 3                              
 34  Slavia Praha              48   -1.35     0 pl       CZE 1                              
-35  Shakhtar Donetsk          47   -1.41     0 pl       UKR 7        UCL p 17              
-35  Lille                     47   -1.41     0 pl       FRA 9                              
 35  Marseille                 47   -1.41     0 pl       FRA 2        UEL p 4               
+35  Lille                     47   -1.41     0 pl       FRA 9                              
 35  Dinamo Zagreb             47   -1.41     0 pl       CRO 3                              
+35  Shakhtar Donetsk          47   -1.41     0 pl       UKR 7        UCL p 17              
 39  Red Bull Salzburg         46   -1.48     0 pl       AUT 5                              
 40  AZ Alkmaar                46   -1.50     0 pl       NED 1                              
-41  Fiorentina                45   -1.52     0 pl       ITA 15                             
+41  Fiorentina                45   -1.52     0 pl       ITA 10                             
 42  SC Braga                  44   -1.60     0 pl       POR 6                              
 43  Tottenham                 44   -1.63     0 pl       ENG 10                             
 43  Olympiakos Piraeus        44   -1.63     0 pl       GRE 3                              
-45  FC Copenhagen             43   -1.66     0 pl       DEN 5        UCL p 16              
 45  Rennes                    43   -1.66     0 pl       FRA 8                              
+45  FC Copenhagen             43   -1.66     0 pl       DEN 5        UCL p 16              
 45  FK Crvena Zvezda          43   -1.66     0 pl       SRB 1                              
 48  Fenerbahce                43   -1.69     0 pl       TUR 2                              
-49  PAOK                      42   -1.74     0 pl       GRE 1                              
 49  Gent                      42   -1.74     0 pl       BEL 9                              
+49  PAOK                      42   -1.74     0 pl       GRE 1                              
 51  Brighton                   4   -4.31     1 pl       ENG 7                              ENG L c 6     
 52  VfB Stuttgart              3   -4.37     2 pl       GER 11                             GER L p 2     
 53  Athletic Club              1   -4.49     1 pl       ESP 6                              
