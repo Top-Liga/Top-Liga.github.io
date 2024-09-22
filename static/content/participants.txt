@@ -14,7 +14,7 @@ ESP
                            3  Girona                                                 
                            4  Atletico Madrid            TL 9      UCL p 6           
       24-25 La Liga             
-                           4  Villarreal                                             
+                           5  Villarreal                                             
                               Real Sociedad                        UCL p 13          
 ITA
       23-24 Serie A             
@@ -47,7 +47,7 @@ NED
                               PSV Eindhoven                        UCL p 15
 SCO
                               Celtic                               UCL c 3 
-UKR
-                              Shakhtar Donetsk                     UCL p 17
 DEN
                               FC Copenhagen                        UCL p 16
+UKR
+                              Shakhtar Donetsk                     UCL p 17
