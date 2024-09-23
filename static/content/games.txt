@@ -202,7 +202,7 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
                                        02|10|2024
 
  UCL   LS-2                  Aston Villa  19:00  Bayern München           
-                           ENG-3   TL-57         TL-6    GER-1 
+                           ENG-3   TL-56         TL-6    GER-1 
                              UCLc5 | Lp4         UCLp3 | TL6 | Lp3       
 
  UCL   LS-2                   RB Leipzig  19:00  Juventus                 
@@ -268,4 +268,12 @@ ITA-L  RS-8                      AS Roma  18:45  Inter
  UCL   LS-3                     Atalanta  16:45  Celtic                   
                            ITA-9   TL-19         TL-None SCO-1 
                              UELp1 | Lp4         UCLc3                   
+
+ UCL   LS-3                    Barcelona  19:00  Bayern München           
+                           ESP-1   TL-10         TL-6    GER-1 
+                      UCLp7 | TL10 | Lp2         UCLp3 | TL6 | Lp3       
+
+ UCL   LS-3                   RB Leipzig  19:00  Liverpool                
+                           GER-6   TL-11         TL-3    ENG-2 
+                                  UCLp11         UELp5 | TL3 | Lp3       
 
