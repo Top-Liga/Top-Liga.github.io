@@ -152,14 +152,14 @@ ITA-L  RS-5                        Inter   1:2   AC Milan
                            ITA-6    TL-7         TL-18   ITA-11
                       UCLp10 | TL7 | Lp1         Lp2                     
 
-
-================================================================================
-
                                        26|09|2024
 
- UEL   LS-1                      AS Roma  19:00  Athletic Club            
+ UEL   LS-1                      AS Roma   1:1   Athletic Club            
                            ITA-9    TL-5         TL-53   ESP-3 
                              UELp3 | TL5         Lc4                     
+
+
+================================================================================
 
                                        28|09|2024
 
@@ -200,13 +200,13 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
                              UCLp8 | Lp2         UCLp4 | TL4 | Lp1       
 
  UCL   LS-2            Borussia Dortmund  19:00  Celtic                   
-                           GER-8    TL-9         TL-None SCO-1 
+                           GER-8   TL-10         TL-None SCO-1 
                              UCLp2 | TL9         UCLc3                   
 
                                        02|10|2024
 
  UCL   LS-2                  Aston Villa  19:00  Bayern München           
-                           ENG-3   TL-57         TL-6    GER-1 
+                           ENG-3   TL-56         TL-6    GER-1 
                              UCLc5 | Lp4         UCLp3 | TL6 | Lp3       
 
  UCL   LS-2                   RB Leipzig  19:00  Juventus                 
@@ -222,7 +222,7 @@ ITA-L  RS-7                        Inter  18:45  Torino
                                        06|10|2024
 
 ESP-L  RS-9                       Girona  12:00  Athletic Club            
-                          ESP-12   TL-54         TL-53   ESP-3 
+                          ESP-12   TL-55         TL-53   ESP-3 
                                      Lp3         Lc4                     
 
 ESP-L  RS-9                Real Sociedad  19:00  Atletico Madrid          
@@ -236,7 +236,7 @@ GER-L  RS-7               Bayern München  16:30  VfB Stuttgart
                        UCLp3 | TL6 | Lp3         Lp2                     
 
 ESP-L  RS-10                      Girona  16:30  Real Sociedad            
-                          ESP-12   TL-54         TL-25   ESP-16
+                          ESP-12   TL-55         TL-25   ESP-16
                                      Lp3         UCLp13                  
 
 ITA-L  RS-8                     Juventus  18:45  Lazio                    
@@ -256,7 +256,7 @@ ITA-L  RS-8                      AS Roma  18:45  Inter
                                        22|10|2024
 
  UCL   LS-3                  Real Madrid  19:00  Borussia Dortmund        
-                           ESP-2    TL-1         TL-9    GER-8 
+                           ESP-2    TL-1         TL-10   GER-8 
                        UCLp1 | TL1 | Lp1         UCLp2 | TL9             
 
  UCL   LS-3                     Juventus  19:00  VfB Stuttgart            
@@ -278,7 +278,7 @@ ITA-L  RS-8                      AS Roma  18:45  Inter
                        UCLp5 | TL2 | Lp1         UCLc6                   
 
  UCL   LS-3                    Barcelona  19:00  Bayern München           
-                           ESP-1   TL-10         TL-6    GER-1 
+                           ESP-1    TL-9         TL-6    GER-1 
                        UCLp7 | TL9 | Lp2         UCLp3 | TL6 | Lp3       
 
  UCL   LS-3                   RB Leipzig  19:00  Liverpool                
