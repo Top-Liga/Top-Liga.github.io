@@ -183,6 +183,10 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
 
                                        01|10|2024
 
+ UCL   LS-2                VfB Stuttgart  16:45  Sparta Praha             
+                           GER-7   TL-51         TL-None CZE-2 
+                                     Lp2         UCLc6                   
+
  UCL   LS-2                PSV Eindhoven  19:00  Sporting CP              
                            NED-1   TL-26         TL-21   POR-1 
                                   UCLp15         Lp1                     
@@ -196,7 +200,7 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
                              UCLp8 | Lp2         UCLp4 | TL4 | Lp1       
 
  UCL   LS-2            Borussia Dortmund  19:00  Celtic                   
-                           GER-8   TL-10         TL-None SCO-1 
+                           GER-8    TL-9         TL-None SCO-1 
                              UCLp2 | TL9         UCLc3                   
 
                                        02|10|2024
@@ -252,7 +256,7 @@ ITA-L  RS-8                      AS Roma  18:45  Inter
                                        22|10|2024
 
  UCL   LS-3                  Real Madrid  19:00  Borussia Dortmund        
-                           ESP-2    TL-1         TL-10   GER-8 
+                           ESP-2    TL-1         TL-9    GER-8 
                        UCLp1 | TL1 | Lp1         UCLp2 | TL9             
 
  UCL   LS-3                     Juventus  19:00  VfB Stuttgart            
@@ -269,11 +273,21 @@ ITA-L  RS-8                      AS Roma  18:45  Inter
                           ITA-12   TL-19         TL-None SCO-1 
                              UELp1 | Lp4         UCLc3                   
 
+ UCL   LS-3              Manchester City  19:00  Sparta Praha             
+                           ENG-1    TL-2         TL-None CZE-2 
+                       UCLp5 | TL2 | Lp1         UCLc6                   
+
  UCL   LS-3                    Barcelona  19:00  Bayern München           
-                           ESP-1    TL-9         TL-6    GER-1 
+                           ESP-1   TL-10         TL-6    GER-1 
                        UCLp7 | TL9 | Lp2         UCLp3 | TL6 | Lp3       
 
  UCL   LS-3                   RB Leipzig  19:00  Liverpool                
                            GER-6   TL-11         TL-3    ENG-2 
                                   UCLp11         UELp5 | TL3 | Lp3       
+
+                                       26|10|2024
+
+GER-L  RS-8                   RB Leipzig  13:30  SC Freiburg              
+                           GER-6   TL-11         TL-None GER-3 
+                                  UCLp11         Lc3                     
 
