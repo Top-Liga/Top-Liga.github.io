@@ -46,7 +46,7 @@ FRA
                               Marseille                            UEL p 4           
 NED
                               PSV Eindhoven                        UCL p 15
-SCO
-                              Celtic                               UCL c 3 
 CZE
                               Sparta Praha                         UCL c 6 
+SCO
+                              Celtic                               UCL c 3 
