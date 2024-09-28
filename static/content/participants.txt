@@ -21,12 +21,12 @@ ITA
                            1  Inter                      TL 8      UCL p 10          
                            2  AC Milan                                               
                            3  Juventus                                               
-                           4  Atalanta                             UEL p 1           
       24-25 Serie A             
                            1  Torino                                                 
-                              Napoli                               UCL p 14          
+                           3  Napoli                               UCL p 14          
                               Lazio                                UCL p 12          
                               AS Roma                    TL 5      UEL p 3           
+                              Atalanta                             UEL p 1           
 GER
       23-24 Bundesliga          
                            1  Bayer Leverkusen                     UEL p 2           
