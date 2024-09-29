@@ -12,8 +12,8 @@ ESP
                            1  Real Madrid                TL 1      UCL p 1           
                            2  Barcelona                  TL 8      UCL p 7           
                            3  Girona                                                 
-                           4  Atletico Madrid            TL 7      UCL p 6           
       24-25 La Liga             
+                           3  Atletico Madrid            TL 7      UCL p 6           
                            5  Villarreal                                             
                               Real Sociedad                        UCL p 13          
 ITA
@@ -25,8 +25,8 @@ ITA
                            5  Napoli                               UCL p 14          
                            4  Torino                                                 
                               Lazio                                UCL p 12          
-                              Atalanta                             UEL p 1           
                               AS Roma                    TL 6      UEL p 3           
+                              Atalanta                             UEL p 1           
 GER
       23-24 Bundesliga          
                            1  Bayer Leverkusen                     UEL p 2           
@@ -46,9 +46,9 @@ FRA
                               Marseille                            UEL p 4           
 NED
                               PSV Eindhoven                        UCL p 15
+DEN
+                              FC Copenhagen                        UCL p 16
 SCO
                               Celtic                               UCL c 3 
 CZE
                               Sparta Praha                         UCL c 6 
-DEN
-                              FC Copenhagen                        UCL p 16

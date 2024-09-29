@@ -9,8 +9,8 @@ ENG
       23-24 Premier League         4
       24-25 Premier League         2
 ESP
-      23-24 La Liga                4
-      24-25 La Liga                1
+      23-24 La Liga                3
+      24-25 La Liga                2
 ITA
       23-24 Serie A                3
       24-25 Serie A                2
