@@ -21,11 +21,10 @@ ITA
                            1  Inter                      TL 8      UCL p 10          
                            2  AC Milan                                               
                            3  Juventus                                               
+                           4  Atalanta                             UEL p 1           
       24-25 Serie A             
-                           2  Torino                                                 
                            5  Napoli                               UCL p 14          
                               Lazio                                UCL p 12          
-                              Atalanta                             UEL p 1           
                               AS Roma                    TL 6      UEL p 3           
 GER
       23-24 Bundesliga          
@@ -46,9 +45,9 @@ FRA
                               Marseille                            UEL p 4           
 NED
                               PSV Eindhoven                        UCL p 15
-CZE
-                              Sparta Praha                         UCL c 6 
 DEN
                               FC Copenhagen                        UCL p 16
+CZE
+                              Sparta Praha                         UCL c 6 
 SCO
                               Celtic                               UCL c 3 
