@@ -177,10 +177,6 @@ ITA-L  RS-6                       Torino   2:3   Lazio
 
 ================================================================================
 
-ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid              
-                           ESP-3    TL-7         TL-1    ESP-2 
-                       UCLp6 | TL7 | Lp4         UCLp1 | TL1 | Lp1       
-
                                        01|10|2024
 
  UCL   LS-2                VfB Stuttgart  16:45  Sparta Praha             
@@ -192,7 +188,7 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
                                   UCLp15         Lp1                     
 
  UCL   LS-2             Bayer Leverkusen  19:00  AC Milan                 
-                           GER-3   TL-12         TL-17   ITA-2 
+                           GER-4   TL-12         TL-17   ITA-2 
                              UELp2 | Lp1         Lp2                     
 
  UCL   LS-2                      Arsenal  19:00  Paris Saint Germain      
@@ -200,7 +196,7 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
                              UCLp8 | Lp2         UCLp4 | TL5 | Lp1       
 
  UCL   LS-2            Borussia Dortmund  19:00  Celtic                   
-                           GER-4   TL-10         TL-None SCO-1 
+                           GER-5   TL-10         TL-None SCO-1 
                             UCLp2 | TL10         UCLc3                   
 
                                        02|10|2024
@@ -210,7 +206,7 @@ ESP-L  RS-8              Atletico Madrid  19:00  Real Madrid
                              UCLc5 | Lp4         UCLp3 | TL4 | Lp3       
 
  UCL   LS-2                   RB Leipzig  19:00  Juventus                 
-                           GER-2   TL-11         TL-16   ITA-1 
+                           GER-3   TL-11         TL-16   ITA-1 
                                   UCLp11         Lp3                     
 
                                        05|10|2024
@@ -219,6 +215,10 @@ ENG-L  RS-7              Manchester City  14:00  Fulham
                            ENG-2    TL-2         TL-None ENG-6 
                        UCLp5 | TL2 | Lp1         Lc6                     
 
+ITA-L  RS-7                        Inter  18:45  Torino                   
+                           ITA-3    TL-9         TL-57   ITA-4 
+                      UCLp10 | TL8 | Lp1         Lc5                     
+
 ESP-L  RS-9                  Real Madrid  19:00  Villarreal               
                            ESP-2    TL-1         TL-14   ESP-5 
                        UCLp1 | TL1 | Lp1         Lc4                     
@@ -226,7 +226,7 @@ ESP-L  RS-9                  Real Madrid  19:00  Villarreal
                                        06|10|2024
 
 GER-L  RS-6          Eintracht Frankfurt  15:30  Bayern München           
-                           GER-6   TL-33         TL-4    GER-1 
+                           GER-2   TL-33         TL-4    GER-1 
                                      Lc2         UCLp3 | TL4 | Lp3       
 
 ESP-L  RS-9                Real Sociedad  19:00  Atletico Madrid          
@@ -236,7 +236,7 @@ ESP-L  RS-9                Real Sociedad  19:00  Atletico Madrid
                                        19|10|2024
 
 GER-L  RS-7             Bayer Leverkusen  13:30  Eintracht Frankfurt      
-                           GER-3   TL-12         TL-33   GER-6 
+                           GER-4   TL-12         TL-33   GER-2 
                              UELp2 | Lp1         Lc2                     
 
 ENG-L  RS-8                       Fulham  14:00  Aston Villa              
@@ -259,16 +259,16 @@ ITA-L  RS-8                     Juventus  18:45  Lazio
 
 ENG-L  RS-8                    Liverpool  15:30  Chelsea                  
                            ENG-1    TL-3         TL-23   ENG-4 
-                       UELp5 | TL3 | Lp3         Lc5                     
+                       UELp5 | TL3 | Lp3         Lc4                     
 
 ITA-L  RS-8                      AS Roma  18:45  Inter                    
-                          ITA-11    TL-6         TL-8    ITA-3 
+                          ITA-11    TL-6         TL-9    ITA-3 
                              UELp3 | TL6         UCLp10 | TL8 | Lp1      
 
                                        22|10|2024
 
  UCL   LS-3                  Real Madrid  19:00  Borussia Dortmund        
-                           ESP-2    TL-1         TL-10   GER-4 
+                           ESP-2    TL-1         TL-10   GER-5 
                        UCLp1 | TL1 | Lp1         UCLp2 | TL10            
 
  UCL   LS-3                     Juventus  19:00  VfB Stuttgart            
@@ -283,24 +283,24 @@ ITA-L  RS-8                      AS Roma  18:45  Inter
 
  UCL   LS-3                     Atalanta  16:45  Celtic                   
                            ITA-9   TL-19         TL-None SCO-1 
-                             UELp1 | Lp4         UCLc3                   
+                                   UELp1         UCLc3                   
 
  UCL   LS-3              Manchester City  19:00  Sparta Praha             
                            ENG-2    TL-2         TL-None CZE-2 
                        UCLp5 | TL2 | Lp1         UCLc6                   
 
  UCL   LS-3                    Barcelona  19:00  Bayern München           
-                           ESP-1    TL-9         TL-4    GER-1 
+                           ESP-1    TL-8         TL-4    GER-1 
                        UCLp7 | TL8 | Lp2         UCLp3 | TL4 | Lp3       
 
  UCL   LS-3                   RB Leipzig  19:00  Liverpool                
-                           GER-2   TL-11         TL-3    ENG-1 
+                           GER-3   TL-11         TL-3    ENG-1 
                                   UCLp11         UELp5 | TL3 | Lp3       
 
                                        27|10|2024
 
 ESP-L  RS-11                 Real Madrid   TBD   Barcelona                
-                           ESP-2    TL-1         TL-9    ESP-1 
+                           ESP-2    TL-1         TL-8    ESP-1 
                        UCLp1 | TL1 | Lp1         UCLp7 | TL8 | Lp2       
 
 ENG-L  RS-9                      Arsenal  15:30  Liverpool                
@@ -308,10 +308,10 @@ ENG-L  RS-9                      Arsenal  15:30  Liverpool
                              UCLp8 | Lp2         UELp5 | TL3 | Lp3       
 
 ITA-L  RS-9                        Inter  16:00  Juventus                 
-                           ITA-3    TL-8         TL-16   ITA-1 
+                           ITA-3    TL-9         TL-16   ITA-1 
                       UCLp10 | TL8 | Lp1         Lp3                     
 
 FRA-L  RS-9                    Marseille  18:45  Paris Saint Germain      
-                           FRA-2   TL-35         TL-5    FRA-1 
+                           FRA-3   TL-37         TL-5    FRA-1 
                                    UELp4         UCLp4 | TL5 | Lp1       
 
