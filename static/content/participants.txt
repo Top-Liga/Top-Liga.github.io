@@ -3,7 +3,7 @@ ENG
                            1  Manchester City            TL 2      UCL p 5           
                            2  Arsenal                              UCL p 8           
                            3  Liverpool                  TL 3      UEL p 5           
-                           4  Aston Villa                          UCL c 5           
+                           4  Aston Villa                          UCL c 6           
       24-25 Premier League      
                            4  Chelsea                                                
                            6  Fulham                                                 
@@ -51,4 +51,4 @@ SCO
 DEN
                               FC Copenhagen                        UCL p 16
 CZE
-                              Sparta Praha                         UCL c 6 
+                              Sparta Praha                         UCL c 5 
