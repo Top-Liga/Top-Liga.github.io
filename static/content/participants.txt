@@ -13,8 +13,9 @@ ITA
                            3  Juventus                             UCL c 8           
       24-25 Serie A             
                            1  Napoli                               UCL p 14          
+                           5  Torino                                                 
                               Lazio                                UCL p 12          
-                              AS Roma                    TL 5      UEL p 3   Cup c 1 
+                              AS Roma                    TL 5      UEL p 3           
                               Atalanta                             UEL p 1           
 ESP
       23-24 La Liga             
@@ -38,6 +39,7 @@ POR
       23-24 Primeira Liga       
                            1  Sporting CP                                            
                               FC Porto                             UCL p 9           
+                              Benfica                              UCL c 10          
 FRA
       23-24 Ligue 1             
                            1  Paris Saint Germain        TL 6      UCL p 4           
@@ -45,5 +47,3 @@ FRA
                               Stade Brestois 29                    UCL c 5           
 NED
                               PSV Eindhoven                        UCL p 15
-DEN
-                              FC Copenhagen                        UCL p 16
