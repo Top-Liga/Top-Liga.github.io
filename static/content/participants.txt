@@ -2,16 +2,15 @@ ENG
       23-24 Premier League      
                            1  Manchester City            TL 2      UCL p 5           
                            2  Arsenal                              UCL p 8           
-                           3  Liverpool                  TL 3      UEL p 5           
-                           4  Aston Villa                          UCL c 5           
+                           3  Liverpool                  TL 3      UEL p 5   LCup c 1
       24-25 Premier League      
                            4  Chelsea                                                
-                           6  Fulham                                                 
+                           5  Aston Villa                          UCL c 3           
 ITA
       23-24 Serie A             
                            1  Inter                      TL 9      UCL p 10          
                            2  AC Milan                                               
-                           3  Juventus                                               
+                           3  Juventus                             UCL c 8           
       24-25 Serie A             
                            1  Napoli                               UCL p 14          
                            5  Torino                                                 
@@ -44,10 +43,8 @@ FRA
       23-24 Ligue 1             
                            1  Paris Saint Germain        TL 6      UCL p 4           
                               Marseille                            UEL p 4           
-                              Stade Brestois 29                    UCL c 6           
+                              Stade Brestois 29                    UCL c 5           
 NED
                               PSV Eindhoven                        UCL p 15
-SCO
-                              Celtic                               UCL c 3 
 DEN
                               FC Copenhagen                        UCL p 16
