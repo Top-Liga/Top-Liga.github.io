@@ -226,7 +226,7 @@ GER-L  RS-6          Eintracht Frankfurt  15:30  Bayern München
                                      Lc2         UCLp3 | TL4 | Lp3       
 
 ESP-L  RS-9                Real Sociedad  19:00  Atletico Madrid          
-                          ESP-16   TL-26         TL-10   ESP-4 
+                          ESP-15   TL-25         TL-10   ESP-4 
                                   UCLp13         UCLp6 | TL10 | Lc3      
 
                                        19|10|2024
@@ -236,7 +236,7 @@ GER-L  RS-7             Bayer Leverkusen  13:30  Eintracht Frankfurt
                              UELp2 | Lp1         Lc2                     
 
 ITA-L  RS-8                     AC Milan  16:00  Udinese                  
-                           ITA-5   TL-18         TL-58   ITA-4 
+                           ITA-5   TL-18         TL-57   ITA-4 
                                      Lp2         Lc4                     
 
 GER-L  RS-7               Bayern München  16:30  VfB Stuttgart            
@@ -244,7 +244,7 @@ GER-L  RS-7               Bayern München  16:30  VfB Stuttgart
                        UCLp3 | TL4 | Lp3         Lp2                     
 
 ESP-L  RS-10                      Girona  16:30  Real Sociedad            
-                          ESP-13   TL-57         TL-26   ESP-16
+                          ESP-12   TL-58         TL-25   ESP-15
                                      Lp3         UCLp13                  
 
 ITA-L  RS-8                     Juventus  18:45  Lazio                    
@@ -272,7 +272,7 @@ ITA-L  RS-8                      AS Roma  18:45  Inter
                              UCLc7 | Lp3         Lp2                     
 
  UCL   LS-3          Paris Saint Germain  19:00  PSV Eindhoven            
-                           FRA-1    TL-7         TL-25   NED-1 
+                           FRA-1    TL-7         TL-26   NED-1 
                        UCLp4 | TL7 | Lp1         UCLp15                  
 
                                        23|10|2024
@@ -322,7 +322,7 @@ GER-L  RS-9             Bayer Leverkusen  19:30  VfB Stuttgart
                                        02|11|2024
 
 ITA-L  RS-11                     Udinese  17:00  Juventus                 
-                           ITA-4   TL-58         TL-13   ITA-3 
+                           ITA-4   TL-57         TL-13   ITA-3 
                                      Lc4         UCLc7 | Lp3             
 
 GER-L  RS-9            Borussia Dortmund  17:30  RB Leipzig               

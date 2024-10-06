@@ -22,29 +22,29 @@
 22  Sporting CP               62   -0.40     3 pl       POR 1                              POR L p 1     
 23  Chelsea                   59   -0.59     0 pl       ENG 4                              ENG L c 4     
 24  Benfica                   58   -0.67     0 pl       POR 3        UCL c 3               
+24  Real Sociedad             58   -0.67     1 pl       ESP 15       UCL p 13              
 24  PSV Eindhoven             58   -0.67     2 pl       NED 1        UCL p 15              
-24  Real Sociedad             58   -0.67     1 pl       ESP 16       UCL p 13              
 27  West Ham                  54   -0.96     0 pl       ENG 12                             
-28  Club Brugge KV            51   -1.11     0 pl       BEL 6                              
+28  Club Brugge KV            51   -1.11     0 pl       BEL 7                              
 29  Feyenoord                 50   -1.19     0 pl       NED 7                              
 30  Sevilla                   49   -1.28     0 pl       ESP 14                             
 31  Ajax                      48   -1.31     0 pl       NED 6                              
 32  Rangers                   47   -1.37     0 pl       SCO 3                              
 33  Eintracht Frankfurt       47   -1.40     0 pl       GER 2                              GER L c 2     
-34  Slavia Praha              45   -1.52     0 pl       CZE 1                              
 34  Lille                     45   -1.52     0 pl       FRA 5                              
+34  Slavia Praha              45   -1.52     0 pl       CZE 1                              
 36  Dinamo Zagreb             45   -1.55     0 pl       CRO 3                              
 37  Shakhtar Donetsk          44   -1.58     0 pl       UKR 4                              
 37  Marseille                 44   -1.58     0 pl       FRA 3        UEL p 4               
-39  Red Bull Salzburg         44   -1.63     0 pl       AUT 3                              
+39  Red Bull Salzburg         44   -1.63     0 pl       AUT 4                              
 40  AZ Alkmaar                43   -1.67     0 pl       NED 3                              
 41  Fiorentina                43   -1.68     0 pl       ITA 13                             
-42  Tottenham                 42   -1.76     0 pl       ENG 8                              
 42  SC Braga                  42   -1.76     0 pl       POR 5                              
+42  Tottenham                 42   -1.76     0 pl       ENG 8                              
 44  Olympiakos Piraeus        41   -1.78     0 pl       GRE 2                              
-45  Rennes                    41   -1.81     0 pl       FRA 10                             
 45  FK Crvena Zvezda          41   -1.81     0 pl       SRB 1                              
 45  FC Copenhagen             41   -1.81     0 pl       DEN 2                              
+45  Rennes                    41   -1.81     0 pl       FRA 10                             
 48  Fenerbahce                40   -1.85     0 pl       TUR 2                              
 49  Gent                      40   -1.89     0 pl       BEL 3                              
 49  PAOK                      40   -1.89     0 pl       GRE 3                              
@@ -52,10 +52,10 @@
 52  Newcastle                  8   -4.00     1 pl       ENG 6                              
 53  VfB Stuttgart              8   -4.01     4 pl       GER 9                              GER L p 2     
 54  Brighton                   6   -4.13     1 pl       ENG 10                             
-55  Athletic Club              5   -4.21     2 pl       ESP 6                              
+55  Athletic Club              5   -4.21     2 pl       ESP 5                              
 56  Sparta Praha               5   -4.22     1 pl       CZE 2                              
-57  Girona                     2   -4.41     3 pl       ESP 13                             ESP L p 3     
 57  Udinese                    2   -4.41     1 pl       ITA 4                              ITA L c 4     
+57  Girona                     2   -4.41     3 pl       ESP 12                             ESP L p 3     
 59  Torino                     2   -4.42     1 pl       ITA 6                              
 59  1. FC Heidenheim           2   -4.42     1 pl       GER 8                              
 61  Celtic                     0   -4.54     1 pl       SCO 1                              
