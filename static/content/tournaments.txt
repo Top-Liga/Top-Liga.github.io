@@ -1,8 +1,9 @@
                                quota
 UEFA
-      23-24 Champions League      15
+      23-24 Champions League      14
       24-25 Champions League       4
       23-24 Europa League          5
+      23-24 Conference League      1
 TL
       TopLiga                     10
 ENG

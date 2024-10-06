@@ -13,8 +13,7 @@ ITA
                            3  Juventus                             UCL c 7           
       24-25 Serie A             
                            1  Napoli                               UCL p 14          
-                           4  Udinese                                                
-                              Lazio                                UCL p 12          
+                           4  Lazio                                UCL p 12          
                               Atalanta                             UEL p 1           
                               AS Roma                    TL 5      UEL p 3           
 ESP
@@ -45,5 +44,5 @@ FRA
                            1  Paris Saint Germain        TL 7      UCL p 4           
                               Marseille                            UEL p 4           
                               Stade Brestois 29                    UCL c 4           
-NED
-                              PSV Eindhoven                        UCL p 15
+GRE
+                              Olympiakos Piraeus                   UECL p 1
