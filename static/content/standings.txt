@@ -34,8 +34,8 @@
 34  Lille                     45   -1.53     0 pl       FRA 5                              
 34  Slavia Praha              45   -1.53     0 pl       CZE 1                              
 36  Dinamo Zagreb             45   -1.56     0 pl       CRO 3                              
-37  Shakhtar Donetsk          44   -1.59     0 pl       UKR 4                              
 37  Marseille                 44   -1.59     0 pl       FRA 3        UEL p 4               
+37  Shakhtar Donetsk          44   -1.59     0 pl       UKR 4                              
 39  Red Bull Salzburg         43   -1.64     0 pl       AUT 4                              
 40  AZ Alkmaar                43   -1.68     0 pl       NED 3                              
 41  Fiorentina                43   -1.69     0 pl       ITA 11                             
