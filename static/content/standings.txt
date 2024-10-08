@@ -21,7 +21,7 @@
 21  Lazio                     62   -0.36     2 pl       ITA 4        UCL p 12              
 22  Sporting CP               62   -0.39     3 pl       POR 1                              POR L p 1     
 23  Eintracht Frankfurt       61   -0.45     1 pl       GER 3                              GER L c 3     
-24  Real Sociedad             59   -0.59     2 pl       ESP 15       UCL p 13              
+24  Real Sociedad             59   -0.58     2 pl       ESP 15       UCL p 13              
 25  Chelsea                   59   -0.62     0 pl       ENG 4                              ENG L c 4     
 26  PSV Eindhoven             58   -0.67     2 pl       NED 1                              
 27  Benfica                   57   -0.70     0 pl       POR 3        UCL c 3               
@@ -39,15 +39,15 @@
 39  Red Bull Salzburg         43   -1.66     0 pl       AUT 4                              
 40  AZ Alkmaar                42   -1.69     0 pl       NED 3                              
 41  Fiorentina                42   -1.70     0 pl       ITA 11                             
-42  Tottenham                 41   -1.78     0 pl       ENG 9                              
 42  SC Braga                  41   -1.78     0 pl       POR 6                              
+42  Tottenham                 41   -1.78     0 pl       ENG 9                              
 44  Olympiakos Piraeus        41   -1.80     0 pl       GRE 4        UECL p 1               
 45  Rennes                    40   -1.83     0 pl       FRA 12                             
 45  FC Copenhagen             40   -1.83     0 pl       DEN 3                              
 45  FK Crvena Zvezda          40   -1.83     0 pl       SRB 1                              
 48  Fenerbahce                40   -1.87     0 pl       TUR 3                              
-49  Gent                      39   -1.91     0 pl       BEL 3                              
 49  PAOK                      39   -1.91     0 pl       GRE 1                              
+49  Gent                      39   -1.91     0 pl       BEL 3                              
 51  Aston Villa                9   -3.95     2 pl       ENG 5        UCL c 6               ENG L c 5     
 52  Newcastle                  8   -3.97     1 pl       ENG 7                              
 53  VfB Stuttgart              8   -3.98     4 pl       GER 8                              GER L p 2     
