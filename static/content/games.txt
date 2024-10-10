@@ -240,12 +240,12 @@ GER-L  RS-7               Bayern München  16:30  VfB Stuttgart
                        UCLp3 | TL4 | Lp3         Lp2                     
 
 ESP-L  RS-10                      Girona  16:30  Real Sociedad            
-                          ESP-11   TL-57         TL-24   ESP-15
+                          ESP-11   TL-58         TL-24   ESP-15
                                      Lp3         UCLp13                  
 
 ITA-L  RS-8                     Juventus  18:45  Lazio                    
                            ITA-3   TL-13         TL-21   ITA-4 
-                             UCLc7 | Lp3         UCLp12                  
+                                     Lp3         UCLp12                  
 
                                        20|10|2024
 
@@ -265,7 +265,7 @@ ITA-L  RS-8                      AS Roma  18:45  Inter
 
  UCL   LS-3                     Juventus  19:00  VfB Stuttgart            
                            ITA-3   TL-13         TL-53   GER-8 
-                             UCLc7 | Lp3         Lp2                     
+                                     Lp3         Lp2                     
 
                                        23|10|2024
 
@@ -293,7 +293,7 @@ ENG-L  RS-9                      Arsenal  15:30  Liverpool
 
 ITA-L  RS-9                        Inter  16:00  Juventus                 
                            ITA-2    TL-9         TL-13   ITA-3 
-                      UCLp10 | TL9 | Lp1         UCLc7 | Lp3             
+                      UCLp10 | TL9 | Lp1         Lp3                     
 
 FRA-L  RS-9                    Marseille  18:45  Paris Saint Germain      
                            FRA-3   TL-38         TL-7    FRA-2 
