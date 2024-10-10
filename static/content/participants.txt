@@ -10,7 +10,7 @@ ITA
       23-24 Serie A             
                            1  Inter                      TL 9      UCL p 10          
                            2  AC Milan                                               
-                           3  Juventus                             UCL c 7           
+                           3  Juventus                                               
       24-25 Serie A             
                            1  Napoli                               UCL p 14          
                               Lazio                                UCL p 12          
@@ -45,3 +45,5 @@ FRA
                               Marseille                            UEL p 4           
                               Lyon                                 UEL c 2           
                               Stade Brestois 29                    UCL c 4           
+GRE
+                              Olympiakos Piraeus                   UECL p 1
