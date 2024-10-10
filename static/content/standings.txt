@@ -31,8 +31,8 @@
 31  Sevilla                   48   -1.33     0 pl       ESP 12                             
 32  Ajax                      47   -1.36     0 pl       NED 5                              
 33  Rangers                   46   -1.42     0 pl       SCO 3                              
-34  Slavia Praha              44   -1.57     0 pl       CZE 1                              
 34  Lille                     44   -1.57     0 pl       FRA 5                              
+34  Slavia Praha              44   -1.57     0 pl       CZE 1                              
 36  Dinamo Zagreb             44   -1.60     0 pl       CRO 3                              
 37  Marseille                 43   -1.62     0 pl       FRA 3        UEL p 4               
 37  Shakhtar Donetsk          43   -1.62     0 pl       UKR 4                              
