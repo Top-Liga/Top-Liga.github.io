@@ -12,7 +12,7 @@ ITA
                            2  AC Milan                                               
                            3  Juventus                             UCL c 7           
       24-25 Serie A             
-                           1  Napoli                                                 
+                           1  Napoli                               UCL p 14          
                               Lazio                                UCL p 12          
                               Atalanta                             UEL p 1           
                               AS Roma                    TL 5      UEL p 3   Cup c 1 
@@ -45,5 +45,3 @@ FRA
                               Marseille                            UEL p 4           
                               Lyon                                 UEL c 2           
                               Stade Brestois 29                    UCL c 4           
-GRE
-                              Olympiakos Piraeus                   UECL p 1
