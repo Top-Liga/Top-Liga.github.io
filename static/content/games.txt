@@ -240,7 +240,7 @@ GER-L  RS-7               Bayern München  16:30  VfB Stuttgart
                        UCLp3 | TL4 | Lp3         Lp2                     
 
 ESP-L  RS-10                      Girona  16:30  Real Sociedad            
-                          ESP-11   TL-58         TL-24   ESP-15
+                          ESP-11   TL-57         TL-24   ESP-15
                                      Lp3         UCLp13                  
 
 ITA-L  RS-8                     Juventus  18:45  Lazio                    
