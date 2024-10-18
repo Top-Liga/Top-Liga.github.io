@@ -24,7 +24,6 @@ ESP
       24-25 La Liga             
                            3  Atletico Madrid            TL 10     UCL p 6           
                            4  Villarreal                                             
-                              Real Sociedad                        UCL p 13          
 GER
       23-24 Bundesliga          
                            1  Bayer Leverkusen                     UEL p 2           
@@ -45,5 +44,7 @@ FRA
                               Marseille                            UEL p 4           
                               Lyon                                 UEL c 2           
                               Stade Brestois 29                    UCL c 4           
+GRE
+                              Olympiakos Piraeus                   UECL p 1
 CZE
                               Sparta Praha                         UCL c 11
