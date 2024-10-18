@@ -19,7 +19,7 @@ ITA
 ESP
       23-24 La Liga             
                            1  Real Madrid                TL 1      UCL p 1           
-                           2  Barcelona                  TL 8      UCL p 7           
+                           2  Barcelona                  TL 7      UCL p 7           
                            3  Girona                                                 
       24-25 La Liga             
                            3  Atletico Madrid            TL 10     UCL p 6           
