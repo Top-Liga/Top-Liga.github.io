@@ -44,7 +44,7 @@ FRA
                               Marseille                            UEL p 4           
                               Lyon                                 UEL c 2           
                               Stade Brestois 29                    UCL c 4           
-GRE
-                              Olympiakos Piraeus                   UECL p 1
 CZE
                               Sparta Praha                         UCL c 11
+GRE
+                              Olympiakos Piraeus                   UECL p 1
