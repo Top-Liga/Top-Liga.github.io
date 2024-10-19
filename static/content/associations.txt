@@ -3,7 +3,7 @@
  2  TopLiga          10  15.15
  3  England           5   8.78
  4  Italy             5   8.75
- 5  Spain             5   8.65
- 6  Germany           5   7.75
+ 5  Spain             5   8.64
+ 6  Germany           5   7.76
  7  Portugal          1   2.21
  8  France            1   1.84
