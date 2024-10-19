@@ -2,10 +2,10 @@ ENG
       23-24 Premier League      
                            1  Manchester City            TL 2      UCL p 5           
                            2  Arsenal                              UCL p 8           
-                           3  Liverpool                  TL 3      UCL c 5           
       24-25 Premier League      
+                           1  Liverpool                  TL 3      UCL c 5   LCup c 1
                            4  Chelsea                                                
-                           5  Aston Villa                          UCL c 6           
+                              Aston Villa                          UCL c 6           
 ITA
       23-24 Serie A             
                            1  Inter                      TL 9      UCL p 10          
@@ -40,11 +40,11 @@ POR
                               Benfica                              UCL c 3           
 FRA
       23-24 Ligue 1             
-                           1  Paris Saint Germain        TL 7      UCL p 4           
+                           1  Paris Saint Germain        TL 8      UCL p 4           
                               Marseille                            UEL p 4           
                               Lyon                                 UEL c 2           
                               Stade Brestois 29                    UCL c 4           
-CZE
-                              Sparta Praha                         UCL c 11
 GRE
                               Olympiakos Piraeus                   UECL p 1
+CZE
+                              Sparta Praha                         UCL c 11
