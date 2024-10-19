@@ -22,12 +22,12 @@ ESP
                            2  Barcelona                  TL 7      UCL p 7           
                            3  Girona                                                 
       24-25 La Liga             
-                           3  Atletico Madrid            TL 10     UCL p 6           
-                           4  Villarreal                                             
+                           3  Atletico Madrid                      UCL p 6           
+                           5  Villarreal                                             
                               Real Sociedad                        UCL p 13          
 GER
       23-24 Bundesliga          
-                           1  Bayer Leverkusen                     UEL p 2           
+                           1  Bayer Leverkusen           TL 10     UEL p 2           
                            2  VfB Stuttgart                                          
                            3  Bayern Munich              TL 4      UCL p 3           
       24-25 Bundesliga          
