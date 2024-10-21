@@ -333,7 +333,7 @@ ITA-L  RS-11                      Napoli  11:30  Atalanta
 
  UCL   LS-4                  Sporting CP  20:00  Manchester City          
                            POR-1   TL-21         TL-2    ENG-2 
-                                     Lp1         UCLp5 | TL2 | Lp1       
+                            UCLc13 | Lp1         UCLp5 | TL2 | Lp1       
 
  UCL   LS-4                  Real Madrid  20:00  AC Milan                 
                            ESP-2    TL-1         TL-18   ITA-4 
@@ -382,10 +382,6 @@ ENG-L  RS-11                   Liverpool  20:00  Aston Villa
 ITA-L  RS-12                       Inter  19:45  Napoli                   
                            ITA-2    TL-5         TL-20   ITA-1 
                 UCLp10 | TL5 | Lp1 | Cc1         Lc1                     
-
-ESP-L  RS-13               Real Sociedad  20:00  Barcelona                
-                          ESP-11   TL-22         TL-7    ESP-1 
-                                  UCLp13         UCLp7 | TL7 | Lp2       
 
 POR-L  RS-11                     Benfica  20:45  FC Porto                 
                            POR-3   TL-27         TL-17   POR-2 

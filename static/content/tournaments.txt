@@ -1,7 +1,7 @@
                                quota
 UEFA
-      23-24 Champions League      13
-      24-25 Champions League       6
+      23-24 Champions League      12
+      24-25 Champions League       7
       23-24 Europa League          4
       24-25 Europa League          1
 TL
