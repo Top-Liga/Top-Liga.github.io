@@ -12,7 +12,7 @@ ITA
                            2  AC Milan                                               
       24-25 Serie A             
                            1  Napoli                                                 
-                           3  Juventus                             UCL c 7           
+                           3  Juventus                                               
                               Atalanta                             UEL p 1           
                               Lazio                                UCL p 12          
                               AS Roma                    TL 9      UEL p 3           
@@ -21,8 +21,8 @@ ENG
                            1  Manchester City            TL 2      UCL p 5           
                            2  Arsenal                              UCL p 8           
       24-25 Premier League      
-                           1  Liverpool                  TL 3      UCL c 5   LCup c 1
-                           4  Aston Villa                          UCL c 6           
+                           1  Liverpool                  TL 3      UCL c 4   LCup c 1
+                           4  Aston Villa                          UCL c 5           
 GER
       23-24 Bundesliga          
                            1  Bayer Leverkusen           TL 10     UEL p 2           
@@ -34,14 +34,15 @@ GER
                               Borussia Dortmund          TL 6      UCL p 2           
 POR
       23-24 Primeira Liga       
-                           1  Sporting CP                          UCL c 13          
+                           1  Sporting CP                          UCL c 7           
                               FC Porto                             UCL p 9           
-                              Benfica                              UCL c 3           
+                              Benfica                              UCL c 2           
 FRA
       23-24 Ligue 1             
-                           1  Paris Saint Germain        TL 8      UCL p 4           
+                           1  Paris Saint Germain        TL 7      UCL p 4           
+                              Monaco                               UCL c 6           
                               Marseille                            UEL p 4           
                               Lyon                                 UEL c 2           
-                              Stade Brestois 29                    UCL c 4           
+                              Stade Brestois 29                    UCL c 3           
 CZE
-                              Sparta Praha                         UCL c 11
+                              Sparta Praha                         UCL c 13
