@@ -360,7 +360,7 @@ ENG-L   RS-10                   Tottenham  13:00  Aston Villa
                  UCLp10 | TL6 | Lp1 | Cc1         UCLp8 | Lp2             
 
  UCL    LS-4          Paris Saint Germain  19:00  Atletico Madrid          
-                            FRA-1    TL-7         TL-10   ESP-3 
+                            FRA-1    TL-7         TL-10   ESP-4 
                         UCLp4 | TL7 | Lp1         UCLp6 | TL10 | Lc3      
 
  UCL    LS-4               Bayern München  19:00  Benfica                  
