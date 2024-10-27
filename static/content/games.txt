@@ -284,14 +284,14 @@ ESP-L   RS-11                 Real Madrid   0:4   Barcelona
                             ESP-2    TL-1         TL-5    ESP-1 
                         UCLp1 | TL1 | Lp1         UCLp7 | TL5 | Lp2       
 
-
-================================================================================
-
                                         27|10|2024
 
-ENG-L   RS-9                      Arsenal  16:30  Liverpool                
+ENG-L   RS-9                      Arsenal   2:2   Liverpool                
                             ENG-4   TL-12         TL-3    ENG-2 
                               UCLp8 | Lp2         UCLc2 | TL3 | Lc1 | LCc1
+
+
+================================================================================
 
 FRA-L   RS-9                    Marseille  19:45  Paris Saint Germain      
                             FRA-3   TL-37         TL-7    FRA-1 
@@ -306,14 +306,18 @@ ITA-L   RS-10                    AC Milan  19:45  Napoli
                                         01|11|2024
 
 GER-L   RS-9             Bayer Leverkusen  19:30  VfB Stuttgart            
-                            GER-3   TL-10         TL-52   GER-8 
+                            GER-3   TL-11         TL-52   GER-8 
                        UELp2 | TL10 | Lp1         Lp2                     
 
                                         02|11|2024
 
+GER-L   RS-9               Bayern München  14:30  Union Berlin             
+                            GER-1    TL-5         TL-None GER-5 
+                        UCLp3 | TL5 | Lp3         Lc3                     
+
 GER-L   RS-9            Borussia Dortmund  17:30  RB Leipzig               
-                            GER-7    TL-9         TL-14   GER-1 
-                              UCLp2 | TL9         UCLp11 | Lc1            
+                            GER-7    TL-9         TL-14   GER-2 
+                              UCLp2 | TL9         UCLp11 | Lc2            
 
                                         03|11|2024
 
@@ -332,7 +336,7 @@ ITA-L   RS-11                      Napoli  11:30  Atalanta
                         UCLp1 | TL1 | Lp1         Lp2                     
 
  UCL    LS-4                    Liverpool  19:00  Bayer Leverkusen         
-                            ENG-2    TL-3         TL-10   GER-3 
+                            ENG-2    TL-3         TL-11   GER-3 
                  UCLc2 | TL3 | Lc1 | LCc1         UELp2 | TL10 | Lp1      
 
  UCL    LS-4                        Lille  19:00  Juventus                 
@@ -346,16 +350,16 @@ ITA-L   RS-11                      Napoli  11:30  Atalanta
                                       Lp2         UELp1                   
 
  UCL    LS-4                        Inter  19:00  Arsenal                  
-                            ITA-2    TL-6         TL-12   ENG-4 
+                            ITA-2    TL-6         TL-12   ENG-5 
                  UCLp10 | TL6 | Lp1 | Cc1         UCLp8 | Lp2             
 
  UCL    LS-4          Paris Saint Germain  19:00  Atletico Madrid          
-                            FRA-1    TL-7         TL-11   ESP-4 
+                            FRA-1    TL-7         TL-10   ESP-4 
                         UCLp4 | TL7 | Lp1         UCLp6 | TL10 | Lc3      
 
  UCL    LS-4               Bayern München  19:00  Benfica                  
-                            GER-2    TL-5         TL-27   POR-4 
-                        UCLp3 | TL5 | Lc2         UCLc13                  
+                            GER-1    TL-5         TL-27   POR-4 
+                        UCLp3 | TL5 | Lp3         UCLc13                  
 
                                         07|11|2024
 
@@ -365,7 +369,7 @@ ITA-L   RS-11                      Napoli  11:30  Atalanta
 
                                         09|11|2024
 
-ENG-L   RS-11                   Liverpool  19:00  Aston Villa              
+ENG-L   RS-11                   Liverpool  20:00  Aston Villa              
                             ENG-2    TL-3         TL-51   ENG-3 
                  UCLc2 | TL3 | Lc1 | LCc1         UCLc1 | Lc4             
 
