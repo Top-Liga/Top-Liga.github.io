@@ -6,7 +6,7 @@ ESP
       24-25 La Liga             
                            3  Villarreal                                             
                            4  Atletico Madrid            TL 10     UCL p 6           
-                           7  Athletic Club                                          
+                           5  Athletic Club                                          
 ENG
       23-24 Premier League      
                            1  Manchester City            TL 2      UCL p 5           
