@@ -14,8 +14,9 @@ ITA
       24-25 Serie A             
                            1  Napoli                                                 
                            3  Atalanta                             UEL p 1           
-                           4  Juventus                             UCL c 14          
+                           4  Fiorentina                                             
                               Lazio                                UEL c 1           
+                              Juventus                             UCL c 14          
                               AS Roma                    TL 8      UEL p 3           
 ENG
       23-24 Premier League      
