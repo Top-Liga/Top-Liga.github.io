@@ -2,8 +2,8 @@
 UEFA
       23-24 Champions League      11
       24-25 Champions League       8
-      23-24 Europa League          4
-      24-25 Europa League          1
+      23-24 Europa League          3
+      24-25 Europa League          2
 TL
       TopLiga                     10
 ESP
