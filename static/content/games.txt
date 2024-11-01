@@ -362,7 +362,7 @@ ENG-L   RS-10                   Tottenham  14:00  Aston Villa
                         UCLp4 | TL6 | Lp1         UCLp6 | TL10 | Lc4      
 
  UCL    LS-4               Bayern München  19:00  Benfica                  
-                            GER-1    TL-5         TL-27   POR-3 
+                            GER-1    TL-5         TL-28   POR-3 
                         UCLp3 | TL5 | Lc1         UCLc13                  
 
                                         07|11|2024
@@ -384,7 +384,7 @@ ITA-L   RS-12                       Inter  19:45  Napoli
                        UCLp10 | TL7 | Lp1         Lc1                     
 
 POR-L   RS-11                     Benfica  20:45  FC Porto                 
-                            POR-3   TL-27         TL-18   POR-2 
+                            POR-3   TL-28         TL-18   POR-2 
                                    UCLc13         UCLp9                   
 
                                         22|11|2024
@@ -438,7 +438,7 @@ ITA-L   RS-13                      Napoli  17:00  AS Roma
                               UCLc1 | Lc4         UCLc14                  
 
  UCL    LS-5                       Monaco  20:00  Benfica                  
-                            FRA-2 TL-None         TL-27   POR-3 
+                            FRA-2 TL-None         TL-28   POR-3 
                                     UCLc7         UCLc13                  
 
                                         28|11|2024
