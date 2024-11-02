@@ -32,7 +32,7 @@ GER
                            2  VfB Stuttgart                                          
       24-25 Bundesliga          
                            1  Bayern München             TL 5      UCL p 3           
-                           2  RB Leipzig                           UCL p 11          
+                           2  RB Leipzig                                             
                               Borussia Dortmund          TL 9      UCL p 2           
 FRA
       23-24 Ligue 1             
@@ -45,3 +45,5 @@ POR
                            1  Sporting CP                          UCL c 8           
                               FC Porto                             UCL p 9           
                               Benfica                              UCL c 13          
+NED
+                              Feyenoord                            UCL c 16
