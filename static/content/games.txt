@@ -322,7 +322,7 @@ GER-L   RS-9            Borussia Dortmund   2:1   RB Leipzig
                                         03|11|2024
 
 ITA-L   RS-11                      Napoli  11:30  Atalanta                 
-                            ITA-1   TL-14         TL-19   ITA-3 
+                            ITA-1   TL-14         TL-20   ITA-3 
                                       Lc1         UELp1 | Lc3             
 
 ENG-L   RS-10                   Tottenham  14:00  Aston Villa              
@@ -332,7 +332,7 @@ ENG-L   RS-10                   Tottenham  14:00  Aston Villa
                                         05|11|2024
 
  UCL    LS-4                  Sporting CP  19:00  Manchester City          
-                            POR-1   TL-20         TL-2    ENG-1 
+                            POR-1   TL-19         TL-2    ENG-1 
                               UCLc8 | Lp1         UCLp5 | TL2 | Lp1       
 
  UCL    LS-4                  Real Madrid  19:00  AC Milan                 
@@ -350,7 +350,7 @@ ENG-L   RS-10                   Tottenham  14:00  Aston Villa
                                         06|11|2024
 
  UCL    LS-4                VfB Stuttgart  19:00  Atalanta                 
-                            GER-7   TL-52         TL-19   ITA-3 
+                            GER-8   TL-52         TL-20   ITA-3 
                                       Lp2         UELp1 | Lc3             
 
  UCL    LS-4                        Inter  19:00  Arsenal                  
@@ -420,7 +420,7 @@ ITA-L   RS-13                      Napoli  17:00  AS Roma
                                         26|11|2024
 
  UCL    LS-5                  Sporting CP  20:00  Arsenal                  
-                            POR-1   TL-20         TL-12   ENG-3 
+                            POR-1   TL-19         TL-12   ENG-3 
                               UCLc8 | Lp1         UCLp8 | Lp2             
 
  UCL    LS-5              Manchester City  20:00  Feyenoord                
@@ -462,7 +462,7 @@ ITA-L   RS-13                      Napoli  17:00  AS Roma
                                         30|11|2024
 
 GER-L   RS-12           Borussia Dortmund  17:30  Bayern München           
-                            GER-8    TL-8         TL-5    GER-1 
+                            GER-5    TL-8         TL-5    GER-1 
                               UCLp2 | TL8         UCLp3 | TL5 | Lc1       
 
                                         01|12|2024
@@ -478,6 +478,6 @@ ENG-L   RS-13                   Liverpool  16:00  Manchester City
                                         02|12|2024
 
 ITA-L   RS-14                     AS Roma  19:45  Atalanta                 
-                           ITA-11    TL-9         TL-19   ITA-3 
+                           ITA-11    TL-9         TL-20   ITA-3 
                               UELp3 | TL9         UELp1 | Lc3             
 
