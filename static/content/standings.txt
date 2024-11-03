@@ -16,8 +16,8 @@
 16  RB Leipzig                66   -0.07     5 pl       GER 2                              GER L c 2     
 17  Manchester United         66   -0.09     2 pl       ENG 13                             
 17  Villarreal                66   -0.09     2 pl       ESP 3                              ESP L c 3     
-19  Napoli                    63   -0.24     3 pl       ITA 1                              ITA L c 1     
 19  FC Porto                  63   -0.24     2 pl       POR 2        UCL p 9               
+19  Napoli                    63   -0.24     3 pl       ITA 1                              ITA L c 1     
 21  Sporting CP               63   -0.27     3 pl       POR 1        UCL c 8               POR L p 1     
 22  AC Milan                  63   -0.29     5 pl       ITA 7                              ITA L p 2     
 23  Real Sociedad             61   -0.37     3 pl       ESP 14                             
@@ -29,7 +29,7 @@
 29  Benfica                   50   -1.09     0 pl       POR 3        UCL c 13              
 30  West Ham                  46   -1.35     0 pl       ENG 14                             
 31  Club Brugge KV            44   -1.49     0 pl       BEL 2                              
-32  Feyenoord                 43   -1.51     0 pl       NED 3        UCL c 16              
+32  Feyenoord                 43   -1.51     0 pl       NED 4        UCL c 16              
 33  Ajax                      42   -1.61     0 pl       NED 2                              
 34  Sevilla                   41   -1.64     0 pl       ESP 11                             
 35  Rangers                   40   -1.70     0 pl       SCO 3                              
@@ -42,21 +42,21 @@
 42  AZ Alkmaar                36   -1.99     0 pl       NED 6                              
 43  Olympiakos Piraeus        35   -2.06     0 pl       GRE 2                              
 43  SC Braga                  35   -2.06     0 pl       POR 5                              
-45  FK Crvena Zvezda          34   -2.11     0 pl       SRB 1                              
 45  Rennes                    34   -2.11     0 pl       FRA 12                             
-45  FC Copenhagen             34   -2.11     0 pl       DEN 2                              
 45  Fenerbahce                34   -2.11     0 pl       TUR 3                              
-49  Gent                      33   -2.18     0 pl       BEL 5                              
+45  FK Crvena Zvezda          34   -2.11     0 pl       SRB 1                              
+45  FC Copenhagen             34   -2.11     0 pl       DEN 2                              
 49  PAOK                      33   -2.18     0 pl       GRE 3                              
-51  Newcastle                 11   -3.59     1 pl       ENG 10                             
+49  Gent                      33   -2.18     0 pl       BEL 5                              
 51  VfB Stuttgart             11   -3.59     7 pl       GER 8                              GER L p 2     
+51  Newcastle                 11   -3.59     1 pl       ENG 10                             
 53  Stade Brestois 29          9   -3.71     1 pl       FRA 10       UCL c 6               
 54  Brighton                   8   -3.75     1 pl       ENG 8                              
-55  Aston Villa                7   -3.84     3 pl       ENG 5        UCL c 1               
+55  Aston Villa                7   -3.83     3 pl       ENG 5        UCL c 1               
 56  Athletic Club              7   -3.85     2 pl       ESP 6                              
 57  Sparta Praha               4   -4.02     2 pl       CZE 3                              
 58  Udinese                    3   -4.11     1 pl       ITA 8                              
-59  1. FC Heidenheim           2   -4.12     1 pl       GER 11                             
 59  Torino                     2   -4.12     1 pl       ITA 10                             
+59  1. FC Heidenheim           2   -4.12     1 pl       GER 11                             
 61  Girona                     2   -4.17     4 pl       ESP 10                             
 62  Celtic                     0   -4.27     1 pl       SCO 1                              
