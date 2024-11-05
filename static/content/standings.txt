@@ -40,16 +40,16 @@
 40  Red Bull Salzburg         36   -1.98     0 pl       AUT 3                              
 40  Fiorentina                36   -1.98     0 pl       ITA 4                              
 42  AZ Alkmaar                35   -2.01     0 pl       NED 6                              
-43  SC Braga                  34   -2.08     0 pl       POR 4                              
 43  Olympiakos Piraeus        34   -2.08     0 pl       GRE 4                              
+43  SC Braga                  34   -2.08     0 pl       POR 4                              
 45  FK Crvena Zvezda          34   -2.13     0 pl       SRB 1                              
-45  Rennes                    34   -2.13     0 pl       FRA 13                             
 45  FC Copenhagen             34   -2.13     0 pl       DEN 3                              
+45  Rennes                    34   -2.13     0 pl       FRA 13                             
 45  Fenerbahce                34   -2.13     0 pl       TUR 3                              
 49  Gent                      32   -2.20     0 pl       BEL 5                              
 49  PAOK                      32   -2.20     0 pl       GRE 2                              
-51  Newcastle                 11   -3.56     1 pl       ENG 11                             
 51  VfB Stuttgart             11   -3.56     7 pl       GER 8                              GER L p 2     
+51  Newcastle                 11   -3.56     1 pl       ENG 11                             
 53  Stade Brestois 29          9   -3.68     1 pl       FRA 11       UCL c 6               
 54  Brighton                   8   -3.72     1 pl       ENG 8                              
 55  Aston Villa                7   -3.81     3 pl       ENG 6        UCL c 1               
