@@ -31,13 +31,13 @@ GER
                            1  Bayer Leverkusen                     UEL p 2           
                            2  VfB Stuttgart                                          
       24-25 Bundesliga          
-                           1  Bayern München             TL 4      UCL p 3           
+                           1  Bayern München             TL 5      UCL p 3           
                            2  RB Leipzig                                             
                               Borussia Dortmund          TL 7      UCL p 2           
 POR
       23-24 Primeira Liga       
                            1  Sporting CP                          UCL c 2           
-                              FC Porto                             UCL p 9           
+                              Benfica                              UCL c 19          
 FRA
       23-24 Ligue 1             
                            1  Paris Saint Germain        TL 9      UCL p 4           
