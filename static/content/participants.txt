@@ -4,10 +4,10 @@ ITA
                            2  AC Milan                                               
       24-25 Serie A             
                            1  Napoli                                                 
-                           3  Atalanta                             UEL p 1           
-                           4  Fiorentina                                             
-                              Lazio                                UEL c 1           
+                           4  Atalanta                             UEL p 1           
+                           5  Fiorentina                                             
                               Juventus                             UCL c 12          
+                              Lazio                                UEL c 1           
                               AS Roma                    TL 10     UEL p 3           
 ENG
       23-24 Premier League      
@@ -23,8 +23,8 @@ ESP
                            1  Real Madrid                TL 1      UCL p 1           
                            2  Barcelona                  TL 4      UCL p 7           
       24-25 La Liga             
-                           3  Atletico Madrid            TL 8      UCL p 6           
-                           4  Villarreal                                             
+                           3  Villarreal                                             
+                           4  Atletico Madrid            TL 8      UCL p 6           
                            5  Osasuna                                                
 GER
       23-24 Bundesliga          
@@ -46,7 +46,7 @@ FRA
                               Stade Brestois 29                    UCL c 4           
 NED
                               Ajax                                 UEL c 2 
-SCO
-                              Celtic                               UCL c 15
 CRO
                               Dinamo Zagreb                        UCL c 16
+SCO
+                              Celtic                               UCL c 15
