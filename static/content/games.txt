@@ -378,40 +378,36 @@ ENG-L   RS-11                   Liverpool   2:0   Aston Villa
                             ENG-1    TL-2         TL-55   ENG-6 
                         UCLc1 | TL2 | Lc1         UCLc8                   
 
-
-================================================================================
-
                                         10|11|2024
 
-ITA-L   RS-12                       Inter  19:45  Napoli                   
+ITA-L   RS-12                       Inter   1:1   Napoli                   
                             ITA-2    TL-6         TL-23   ITA-1 
                         UCLc3 | TL6 | Lp1         Lc1                     
+
+
+================================================================================
 
                                         22|11|2024
 
 FRA-L   RS-12                      Monaco  18:00  Stade Brestois 29        
-                            FRA-2 TL-None         TL-53   FRA-11
+                            FRA-2 TL-None         TL-53   FRA-12
                                     UCLc5         UCLc4                   
 
                                         23|11|2024
 
-ENG-L   RS-12                     Arsenal  15:00  Nottingham Forest        
-                            ENG-6   TL-12         TL-None ENG-3 
-                              UCLp8 | Lp2         Lc3                     
-
 ITA-L   RS-13                    AC Milan  17:00  Juventus                 
-                            ITA-7   TL-16         TL-14   ITA-3 
+                            ITA-7   TL-16         TL-14   ITA-6 
                                       Lp2         UCLc12                  
 
 ENG-L   RS-12             Manchester City  17:30  Tottenham                
-                            ENG-2    TL-3         TL-17   ENG-9 
+                            ENG-2    TL-3         TL-17   ENG-10
                         UCLp5 | TL3 | Lp1         LCc1                    
 
                                         24|11|2024
 
 ESP-L   RS-14                     Osasuna  13:00  Villarreal               
-                            ESP-5   TL-58         TL-20   ESP-3 
-                                      Lc5         Lc3                     
+                            ESP-5   TL-58         TL-20   ESP-4 
+                                      Lc5         Lc4                     
 
 ITA-L   RS-13                      Napoli  17:00  AS Roma                  
                             ITA-1   TL-23         TL-10   ITA-12
@@ -420,15 +416,15 @@ ITA-L   RS-13                      Napoli  17:00  AS Roma
                                         26|11|2024
 
  UCL    LS-5                  Sporting CP  20:00  Arsenal                  
-                            POR-1   TL-15         TL-12   ENG-6 
+                            POR-1   TL-15         TL-12   ENG-4 
                               UCLc2 | Lp1         UCLp8 | Lp2             
 
  UCL    LS-5                    Barcelona  20:00  Stade Brestois 29        
-                            ESP-1    TL-4         TL-53   FRA-11
+                            ESP-1    TL-4         TL-53   FRA-12
                         UCLp7 | TL4 | Lp2         UCLc4                   
 
  UCL    LS-5                        Inter  20:00  RB Leipzig               
-                            ITA-2    TL-6         TL-19   GER-2 
+                            ITA-4    TL-6         TL-19   GER-2 
                         UCLc3 | TL6 | Lp1         Lc2                     
 
  UCL    LS-5               Bayern München  20:00  Paris Saint Germain      
@@ -442,7 +438,7 @@ ITA-L   RS-13                      Napoli  17:00  AS Roma
                         UCLc1 | TL2 | Lc1         UCLp1 | TL1 | Lp1       
 
  UCL    LS-5                  Aston Villa  20:00  Juventus                 
-                            ENG-8   TL-56         TL-14   ITA-3 
+                            ENG-9   TL-56         TL-14   ITA-6 
                                     UCLc8         UCLc12                  
 
  UCL    LS-5                Dinamo Zagreb  20:00  Borussia Dortmund        
@@ -456,7 +452,7 @@ ITA-L   RS-13                      Napoli  17:00  AS Roma
                                         28|11|2024
 
  UEL    LS-5                    Tottenham  20:00  AS Roma                  
-                            ENG-9   TL-17         TL-10   ITA-12
+                           ENG-10   TL-17         TL-10   ITA-12
                                      LCc1         UELp3 | TL10            
 
                                         30|11|2024
@@ -467,19 +463,23 @@ GER-L   RS-12           Borussia Dortmund  17:30  Bayern München
 
                                         01|12|2024
 
+ENG-L   RS-13                     Chelsea  13:30  Aston Villa              
+                            ENG-3   TL-29         TL-56   ENG-9 
+                                      Lc3         UCLc8                   
+
 ENG-L   RS-13                   Liverpool  16:00  Manchester City          
                             ENG-1    TL-2         TL-3    ENG-2 
                         UCLc1 | TL2 | Lc1         UCLp5 | TL3 | Lp1       
 
 ITA-L   RS-14                  Fiorentina  17:00  Inter                    
-                            ITA-5   TL-42         TL-6    ITA-2 
-                                      Lc4         UCLc3 | TL6 | Lp1       
+                            ITA-3   TL-41         TL-6    ITA-4 
+                                      Lc3         UCLc3 | TL6 | Lp1       
 
                                         02|12|2024
 
 ITA-L   RS-14                     AS Roma  19:45  Atalanta                 
-                           ITA-12   TL-10         TL-13   ITA-4 
-                             UELp3 | TL10         UELp1 | Lc3             
+                           ITA-12   TL-10         TL-13   ITA-2 
+                             UELp3 | TL10         UELp1 | Lc2             
 
                                         03|12|2024
 
@@ -490,26 +490,44 @@ GER-C    1/8               Bayern München   TBD   Bayer Leverkusen
                                         04|12|2024
 
 ITA-C    1/8                        Lazio   TBD   Napoli                   
-                            ITA-6   TL-22         TL-23   ITA-1 
+                            ITA-5   TL-22         TL-23   ITA-1 
                                     UELc1         Lc1                     
-
-ENG-L   RS-14             Manchester City  19:30  Nottingham Forest        
-                            ENG-2    TL-3         TL-None ENG-3 
-                        UCLp5 | TL3 | Lp1         Lc3                     
 
                                         06|12|2024
 
 FRA-L   RS-14                       Lille  18:00  Stade Brestois 29        
-                            FRA-4   TL-27         TL-53   FRA-11
+                            FRA-4   TL-27         TL-53   FRA-12
                                    UCLc14         UCLc4                   
 
 ITA-L   RS-15                    Atalanta  19:45  AC Milan                 
-                            ITA-4   TL-13         TL-16   ITA-7 
-                              UELp1 | Lc3         Lp2                     
+                            ITA-2   TL-13         TL-16   ITA-7 
+                              UELp1 | Lc2         Lp2                     
 
                                         08|12|2024
 
+ENG-L   RS-15                   Tottenham  16:30  Chelsea                  
+                           ENG-10   TL-17         TL-29   ENG-3 
+                                     LCc1         Lc3                     
+
 ITA-L   RS-15                      Napoli  19:45  Lazio                    
-                            ITA-1   TL-23         TL-22   ITA-6 
+                            ITA-1   TL-23         TL-22   ITA-5 
                                       Lc1         UELc1                   
+
+                                        10|12|2024
+
+ UCL    LS-6                Dinamo Zagreb  17:45  Celtic                   
+                            CRO-3   TL-37         TL-63   SCO-1 
+                                   UCLc16         UCLc15                  
+
+ UCL    LS-6                     Atalanta  20:00  Real Madrid              
+                            ITA-2   TL-13         TL-1    ESP-2 
+                              UELp1 | Lc2         UCLp1 | TL1 | Lp1       
+
+ UCL    LS-6             Bayer Leverkusen  20:00  Inter                    
+                            GER-4   TL-11         TL-6    ITA-4 
+                              UELp2 | Lp1         UCLc3 | TL6 | Lp1       
+
+ UCL    LS-6                   RB Leipzig  20:00  Aston Villa              
+                            GER-2   TL-19         TL-56   ENG-9 
+                                      Lc2         UCLc8                   
 
