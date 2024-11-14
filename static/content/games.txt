@@ -417,7 +417,7 @@ ITA-L   RS-13                      Napoli  17:00  AS Roma
 
  UCL    LS-5                  Sporting CP  20:00  Arsenal                  
                             POR-1   TL-15         TL-12   ENG-4 
-                              UCLc2 | Lp1         UCLp8 | Lp2             
+                              UCLc2 | Lp1         UCLc11 | Lp2            
 
  UCL    LS-5                    Barcelona  20:00  Stade Brestois 29        
                             ESP-1    TL-4         TL-53   FRA-12
@@ -446,7 +446,7 @@ ITA-L   RS-13                      Napoli  17:00  AS Roma
                                    UCLc16         UCLp2 | TL7             
 
  UCL    LS-5                       Monaco  20:00  Benfica                  
-                            FRA-2 TL-None         TL-22   POR-3 
+                            FRA-2 TL-None         TL-21   POR-3 
                                     UCLc5         UCLc19                  
 
                                         28|11|2024
@@ -490,7 +490,7 @@ GER-C    1/8               Bayern München   TBD   Bayer Leverkusen
                                         04|12|2024
 
 ITA-C    1/8                        Lazio   TBD   Napoli                   
-                            ITA-5   TL-21         TL-23   ITA-1 
+                            ITA-5   TL-22         TL-23   ITA-1 
                                     UELc1         Lc1                     
 
                                         06|12|2024
@@ -510,7 +510,7 @@ ENG-L   RS-15                   Tottenham  16:30  Chelsea
                                      LCc1         Lc3                     
 
 ITA-L   RS-15                      Napoli  19:45  Lazio                    
-                            ITA-1   TL-23         TL-21   ITA-5 
+                            ITA-1   TL-23         TL-22   ITA-5 
                                       Lc1         UELc1                   
 
                                         10|12|2024
@@ -539,7 +539,7 @@ ITA-L   RS-15                      Napoli  19:45  Lazio
 
  UCL    LS-6                      Arsenal  20:00  Monaco                   
                             ENG-4   TL-12         TL-None FRA-2 
-                              UCLp8 | Lp2         UCLc5                   
+                             UCLc11 | Lp2         UCLc5                   
 
  UCL    LS-6            Borussia Dortmund  20:00  Barcelona                
                             GER-7    TL-7         TL-4    ESP-1 
@@ -548,6 +548,6 @@ ITA-L   RS-15                      Napoli  19:45  Lazio
                                         12|12|2024
 
  UEL    LS-6                         Ajax  20:00  Lazio                    
-                            NED-3   TL-34         TL-21   ITA-5 
+                            NED-3   TL-34         TL-22   ITA-5 
                                     UELc2         UELc1                   
 
